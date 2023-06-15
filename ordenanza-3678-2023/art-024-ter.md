@@ -1,0 +1,1 @@
+Artículo 24°Ter: Establécese que la circulación alrededor del emplazamiento vial circular, en la intersección de las Avenidas San Martín, Rawson e Independencia, será la establecida para las rotondas según artículo 43, inc. e) de la Ley Nacional N.º 24.449.
