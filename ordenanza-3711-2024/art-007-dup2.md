@@ -1,0 +1,1 @@
+ARTÍCULO 7.- Por las gestiones, trámites y/o actuaciones que se realicen ante el Departamento Ejecutivo y demás dependencias, que no se encuentren enumeradas a continuación, se abonará en concepto de Tasa por actuación administrativa la suma de $ 945,00

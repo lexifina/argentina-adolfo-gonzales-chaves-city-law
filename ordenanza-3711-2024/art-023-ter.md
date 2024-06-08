@@ -1,0 +1,1 @@
+ARTÍCULO 23 ter: Créase la Tasa de Cobertura Universal de Salud, que será de $ 375,00 (Pesos Trescientos setenta y cinco) por mes y por partida inmobiliaria urbana o unidad funcional y de $ 25 (Pesos veinticinco) por mes, por hectárea, por partida inmobiliaria rural.
