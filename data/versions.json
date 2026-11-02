@@ -1,0 +1,2903 @@
+{
+ "country": "AR-B-ADOLFO-GONZALES-CHAVES",
+ "acts": [
+  {
+   "slug": "ordenanza-3306-2017",
+   "short": "Ordenanza 3306/2017",
+   "title": "Ordenanza 3306/2017: Convalídanse los decretos 324/2017 y 808/2017 mediante los cuales se dispusieron los aumentos salariales previstos, según Acta Acuerdo firmada entre el Sindicato de Trabajadores Municipales y el Departamento Ejecutivo, d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/388/contents/1162278",
+   "versions": [
+    {
+     "from": "2017-10-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/388/contents/1162278",
+     "sha256": "64431136796a06c1148674c7346b36b8a657d7a12ca9eadd311482d3311530df"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3309-2017",
+   "short": "Ordenanza 3309/2017",
+   "title": "Ordenanza 3309/2017: Autorízase al Departamento Ejecutivo a firmar Convenio con la Facultad de Ciencias Económicas, de la UNIVERSIDAD NACIONAL DEL CENTRO, a los fines de estructurar un FIDEICOMISO FINANCIERO PRIVADO, denominado “DEL CAMPO PA",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/388/contents/1162296",
+   "versions": [
+    {
+     "from": "2017-10-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/388/contents/1162296",
+     "sha256": "f5ed8818e76e660903f25bc2d4ae3d462d5502bb1151f35b2b0b18fb8f9a39d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3311-2017",
+   "short": "Ordenanza 3311/2017",
+   "title": "Ordenanza 3311/2017: Declárase de INTERES PUBLICO MUNICIPAL el “SEGUNDO CAMPEONATO PANAMERICANO DE VUELO A VELA” a realizarse del 27 de noviembre al 16 de diciembre del año 2017, en la localidad de Adolfo Gonzales Chaves, organizado por el C",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/388/contents/1162302",
+   "versions": [
+    {
+     "from": "2017-10-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/388/contents/1162302",
+     "sha256": "246e21760f9b99a10afbc50636bb3fa12c620d3dbc831ab428aecb61fc50ea6a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3314-2018",
+   "short": "Ordenanza 3314/2018",
+   "title": "Ordenanza 3314/2018: Convalídase el Decreto Nº 909/2017 dictado por el Departamento Ejecutivo de Adolfo Gonzales Chaves, mediante el cual se aprueba la Licitación Privada Nº 5/2017 para la Contratación del “Servicio de Recolección, Transport",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186034",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186034",
+     "sha256": "5fe6478086b9035972a36b1394f5d7c5f2ca1d23f6661ce1ec21dae69a865e8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3315-2018",
+   "short": "Ordenanza 3315/2018",
+   "title": "Ordenanza 3315/2018: CONVALÍDASE el CONVENIO firmado entre el MINISTERIO DE DESARROLLO SOCIAL DE LA NACIÓN, representado por el Sr. Carlos María PEDRINI, en su carácter de Secretario de Gestión y Articulación Institucional y la MUNICIPALIDAD",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186037",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186037",
+     "sha256": "932398d0dd5634a2adbc9c65ff5038d17e7d95997010c55d432d8509b0cf34f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3316-2018",
+   "short": "Ordenanza 3316/2018",
+   "title": "Ordenanza 3316/2018: el contrato celebrado entre el señor Gustavo Eduardo PELONI, DNI 13.651.045 y la Municipalidad de Adolfo Gonzales Chaves, por un importe de Pesos Ciento Sesenta y Ocho Mil ($ 168.000), para el periodo comprendido entre e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186040",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186040",
+     "sha256": "3e12c88355206820a805020b234c34ffcf82f19a343e8d93ef739935f9858805"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3320-2018",
+   "short": "Ordenanza 3320/2018",
+   "title": "Ordenanza 3320/2018: el contrato celebrado entre la señora María Esther GASTELU, DNI 3.849.710 y la Municipalidad de Adolfo Gonzales Chaves, por un importe de Pesos Ciento Treinta y Tres Mil Ochocientos ($ 133.800), para el periodo comprendi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186075",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186075",
+     "sha256": "71eb458f6c056bc9bcc38a03c3fcda9713f4367aa493c7a7ffdba0c6585b4c6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3323-2018",
+   "short": "Ordenanza 3323/2018",
+   "title": "Ordenanza 3323/2018: Autorícese al Departamento Ejecutivo Municipal a disponer de la colocación de arcos limitadores de altura en los accesos Este y Oeste de la localidad de Juan E, Barra, a dos metros noventa centímetros (2,90 metros) del n",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186085",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186085",
+     "sha256": "f15ea0b60c3b7911ea41985fa4e145887641d998a81d98112a9ea4ed0d5d579e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3325-2018",
+   "short": "Ordenanza 3325/2018",
+   "title": "Ordenanza 3325/2018: Convalídase el contrato celebrado entre el CENTRO DE CAMIONEROS DE ADOLFO GONZALES CHAVES y la Municipalidad de Adolfo Gonzales Chaves, por un importe de Pesos Sesenta y Seis Mil ($ 66.000,00) para el periodo comprendido",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186100",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186100",
+     "sha256": "2afa66ea54300d7cf78bac4c16ea06d918055391be9e9275d4408291c5607065"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3331-2018",
+   "short": "Ordenanza 3331/2018",
+   "title": "Ordenanza 3331/2018: Declárase de utilidad pública y de interés comunitario la preservación, defensa, mejoramiento, ordenamiento, ampliación y recuperación de espacios públicos, de sus componentes naturales o implantados y del mobiliario y e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186192",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186192",
+     "sha256": "8d1ad0dd2e100d7bf2e0f35c313c90c83177ea91ec5fac216c9a8bf00be9cf5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3332-2018",
+   "short": "Ordenanza 3332/2018",
+   "title": "Ordenanza 3332/2018: Declárase de INTERES PUBLICO MUNICIPAL el Festival Aéreo a realizarse los días 18 y 19 de noviembre del año 2017, en la localidad de Adolfo Gonzales Chaves, organizado por el Aero Club Gonzales Chaves.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186196",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186196",
+     "sha256": "fa0546a6fac0bce70c99e7b07db4ce88ebbddb07cfe7b83db1ec025eb45e0fe1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3336-2018",
+   "short": "Ordenanza 3336/2018",
+   "title": "Ordenanza 3336/2018: Convalídase el contrato celebrado entre el señor Javier Andrés ROSSI, DNI 17.940.520 y la Municipalidad de Adolfo Gonzales Chaves, por un importe de Pesos Setenta y Nueve Mil Doscientos ($ 79.200), para el periodo compre",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186231",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186231",
+     "sha256": "a71898ab774986c58d59ccd61c7612724dd02fb5961b7eb667ccfa1ed3c2a96b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3337-2018",
+   "short": "Ordenanza 3337/2018",
+   "title": "Ordenanza 3337/2018: el contrato celebrado entre AMADO y GIANCATERINO S.H., CUIT 30-62049076-4 y la Municipalidad de Adolfo Gonzales Chaves, para el periodo comprendido entre el 1º de Enero de 2016 hasta el 31 de Diciembre de 2017, el cual s",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186605",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186605",
+     "sha256": "cca03a5c31d056ddf291791c16cc0a856b287ea07da6a318b206ba33fa700762"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3340-2018",
+   "short": "Ordenanza 3340/2018",
+   "title": "Ordenanza 3340/2018: Modifícase el artículo 1º de la Ordenanza 2833/2009, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186611",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186611",
+     "sha256": "3a413eb21f720fb5ba82a2d167639c5d8df9f7aa80279e1172ae5941923f00d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3342-2018",
+   "short": "Ordenanza 3342/2018",
+   "title": "Ordenanza 3342/2018: Autorízase al Sr. Intendente Municipal Dr. Marcelo Eduardo Santillán, DNI. Nº 16.336.943, a tramitar ante NACION LEASING S.A., una o más operaciones de leasing para el arrendamiento con opción a compra de un CAMION IVECO",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186612",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186612",
+     "sha256": "412df5b44057e91fa47d0ddcdbce159c05110df3cc7627ce0548da65b24e9630"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3343-2018",
+   "short": "Ordenanza 3343/2018",
+   "title": "Ordenanza 3343/2018: al Departamento Ejecutivo a desafectar del uso calle, la fracción de terreno que se ubica sobre Avda. Presidente Perón entre las calles Alvear y Río Juramento de esta ciudad, dejándose constancia que la desafectación de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186616",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1186616",
+     "sha256": "4e2532817d681d838491cbfeb0dfb6a79bb61770c6ebe9896679d717e0c2bf61"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3345-2018",
+   "short": "Ordenanza 3345/2018",
+   "title": "Ordenanza 3345/2018: Establecese para el Partido de Adolfo Gonzales Chaves los siguientes planes de pago, y descuentos y la posibilidad de formalizar convenios para las contravenciones y/o multas sean estas municipales o provinciales, como a",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1187541",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 22,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/676/contents/1187541",
+     "sha256": "07c639f9a714a7a2723d1e4a6399cdd9730600c450e8a66768a297c532e82a9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3346-2018",
+   "short": "Ordenanza 3346/2018",
+   "title": "Ordenanza 3346/2018: Convalídase el Decreto Nº 1340/2017 dictado por el Departamento Ejecutivo de Adolfo Gonzales Chaves, referente Licitación Privada Nº 11/2017 para la Contratación del “Servicio de Recolección, Transporte, Tratamiento y Di",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/934/contents/1208355",
+   "versions": [
+    {
+     "from": "2018-05-19",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/934/contents/1208355",
+     "sha256": "cec2c69b1c32405db118797f431ddac8fed8f528955710e068fea9990ffc8761"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3351-2018",
+   "short": "Ordenanza 3351/2018",
+   "title": "Ordenanza 3351/2018: Modificar el Artículo Nº 3, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/934/contents/1208369",
+   "versions": [
+    {
+     "from": "2018-05-19",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/934/contents/1208369",
+     "sha256": "a29e60dfbe1de20cd57564c117c6aeac41d365b814b9e71922ae3c801bdecee6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3358-2018",
+   "short": "Ordenanza 3358/2018",
+   "title": "Ordenanza 3358/2018: Los propietarios, poseedores o tenedores de establecimientos, casas, quintas, fincas u otro tipo de inmuebles, sean personas físicas o jurídicas, en donde se realicen espectáculos o fiestas de carácter privado en forma e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1102/contents/1224288",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1102/contents/1224288",
+     "sha256": "a59af0e24872cd03c1706e63312161196c66b87fe335f2e3c1e38a3c54b6443c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3359-2018",
+   "short": "Ordenanza 3359/2018",
+   "title": "Ordenanza 3359/2018: Declárese en estado de peligro público, la construcción deshabitada ubicada en calle Ana Paisas de Elicagaray Nº 346 , de la ciudad de Adolfo Gonzales Chaves, denominación catastral es CIRC. I SEC. A MZ. 56 Par. 6 PARTID",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1102/contents/1224290",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1102/contents/1224290",
+     "sha256": "82ce9f33a08b0fd0a77385980ba2850515a7623f8937785fed01884fcb9cd998"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3365-2018",
+   "short": "Ordenanza 3365/2018",
+   "title": "Ordenanza 3365/2018: Autorízase al Departamento Ejecutivo a registrar como deuda y pagar como gasto de ejercicios anteriores (Art 54 Decreto Provincial 2980/2000 RAFAM y Art 140 y 141 del Reglamento de Contabilidad), en concepto de Licencias",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1109/contents/1228456",
+   "versions": [
+    {
+     "from": "2018-07-27",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1109/contents/1228456",
+     "sha256": "6b561a46492e060da3d24824daeaf1ae71cdd8bb3d21dc6dad5885b31286d15c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3370-2018",
+   "short": "Ordenanza 3370/2018",
+   "title": "Ordenanza 3370/2018: Acéptase la donación de un cuadro de elaboración artesanal, de 57 X 64 cms., que representa el frente del edificio del Palacio Municipal, realizado y donado por la señora Lilia Mabel SCIARRILLO .",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1152/contents/1229794",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1152/contents/1229794",
+     "sha256": "d957fdd41abbb6358e0ed520f9b8523cfea6f9963abfd9cfc1ff6d85f4302f52"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3373-2018",
+   "short": "Ordenanza 3373/2018",
+   "title": "Ordenanza 3373/2018: ADJUDÍQUESE, por su condición de Bombero Voluntario de Adolfo Gonzales Chaves, al señor Matías Roberto VELOZ – DNI. 28.962.259, la vivienda identificada catastralmente como CIRCUNSCRIPCION XVI – SECCION A – MANZANA 9a – ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1167/contents/1233733",
+   "versions": [
+    {
+     "from": "2018-08-17",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1167/contents/1233733",
+     "sha256": "904d07d3b026e62c552811ec58d9ae02a8a85daedebadb18edb8766a8d00f9a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3376-2018",
+   "short": "Ordenanza 3376/2018",
+   "title": "Ordenanza 3376/2018: CONVALÍDASE el Decreto municipal Nº 87/2018 y 551/2018 sobre rectificación de la Escala Salarial incluida en el Artículo 5º de la Ordenanza Complementaria del Presupuesto para el Ejercicio 2018.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1167/contents/1233743",
+   "versions": [
+    {
+     "from": "2018-08-17",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1167/contents/1233743",
+     "sha256": "65108c55f308ec94cc78847cefbd6cb5cf56f39ed81d4b225854f60133b4e1c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3377-2018",
+   "short": "Ordenanza 3377/2018",
+   "title": "Ordenanza 3377/2018: CONVALÍDASE el Decreto municipal Nº 348/2018, sobre autorización al Departamento Ejecutivo para hacer efectivo el pago del incremento salarial acordado en paritarias municipales, para los meses de Abril, Mayo y Junio de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1167/contents/1233746",
+   "versions": [
+    {
+     "from": "2018-08-17",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1167/contents/1233746",
+     "sha256": "c7be96e2ac0dff2af0bb98708063f9e9d4f374c7b51117ba4fd43e7d87f7994d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3378-2018",
+   "short": "Ordenanza 3378/2018",
+   "title": "Ordenanza 3378/2018: Modifícase el artículo 1º de la Ordenanza Complementaria del Presupuesto 2018, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1167/contents/1233747",
+   "versions": [
+    {
+     "from": "2018-08-17",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1167/contents/1233747",
+     "sha256": "7717dabf7611542d5b8c868815c70fdecf178d83fa633398588534bfedf9c88c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3379-2018",
+   "short": "Ordenanza 3379/2018",
+   "title": "Ordenanza 3379/2018: Autorízase al Departamento Ejecutivo a desafectar del uso para prácticas de deportes, el sector de la parcela de terreno identificada catastralmente como Circ. I; Sección A; Manzana 42; Parcela 2-a, que tendrá una superf",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1167/contents/1233749",
+   "versions": [
+    {
+     "from": "2018-08-17",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1167/contents/1233749",
+     "sha256": "cb50e2b5b7a94d136dcba3e3861a49f6e9c35ed502c36a94aec2392e87dec115"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3380-2018",
+   "short": "Ordenanza 3380/2018",
+   "title": "Ordenanza 3380/2018: IMPONGASE, el nombre de “EVA DUARTE DE PERÓN” a la avenida de circunvalación que nace en inmediaciones de Ruta Provincial Nº 75 acceso al Frigorífico) y termina en Ruta Nacional Nº 3 (Acceso Club Otto Ballod).-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1295/contents/1239563",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1295/contents/1239563",
+     "sha256": "185c21eed7c669db7f11d92e77f329ab105850dfac2496be11113a91dac63f75"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3385-2018",
+   "short": "Ordenanza 3385/2018",
+   "title": "Ordenanza 3385/2018: IMPONGASE, el nombre de “ALFREDO ALONSO” al Natatorio Municipal de Juan Eulogio Barra, Pdo. de Adolfo Gonzales Chaves.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1295/contents/1239567",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1295/contents/1239567",
+     "sha256": "fc8240e9558de5915fc3ffa5c8ab66101c859a1eac816b763ddf37023af7895f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3386-2018",
+   "short": "Ordenanza 3386/2018",
+   "title": "Ordenanza 3386/2018: Adhiérase la Municipalidad de Adolfo Gonzales Chaves en todos sus términos, a la Ley Provincial Nº 13.168 y su modificatoria Ley 14.040.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1295/contents/1239568",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1295/contents/1239568",
+     "sha256": "6c8ea175e5b8d36a82c3650af84480e0a1d0d9ab524b8d9682e4994a759ef85a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3352-2018",
+   "short": "Ordenanza 3352/2018",
+   "title": "Ordenanza 3352/2018: Autorízase al Departamento Ejecutivo la venta a la Empresa “MIL-AGRO KABOD S. A., con domicilio en Calle 529, Nº 713 entre 2 y 2 bis de la Localidad de Tolosa, Partido de La Plata, Provincia de Buenos Aires, representada",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1298/contents/1240965",
+   "versions": [
+    {
+     "from": "2018-09-13",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1298/contents/1240965",
+     "sha256": "c9503721d94d9d43bf3fbf391038f40cc655d1fc36728a458b7b8cb511c7ad46"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3353-2018",
+   "short": "Ordenanza 3353/2018",
+   "title": "Ordenanza 3353/2018: Crease en el Partido de Adolfo Gonzales Chaves, el Registro de Instituciones de Bien Público, reconocidas por la Municipalidad de Adolfo Gonzales Chaves, que pretendan comercializar comidas elaboradas y/o asadas, ya sea ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1298/contents/1240968",
+   "versions": [
+    {
+     "from": "2018-09-13",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1298/contents/1240968",
+     "sha256": "7375b13874a448de72919bf44ce05b1df8a33c4888008191ad8ce362e3ebdbe1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3383-2018",
+   "short": "Ordenanza 3383/2018",
+   "title": "Ordenanza 3383/2018: IMPONGASE, el nombre de “CAMINO DE LA SALUD - DOCTOR RAUL RICARDO ALFONSIN” al Acceso peatonal desde paso a nivel norte (Av. Tintori y Dori), a Ruta Provincial Nº 75 adyacente a Avenida Tintori y vías del ferrocarril de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1298/contents/1240458",
+   "versions": [
+    {
+     "from": "2018-09-13",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1298/contents/1240458",
+     "sha256": "ece54dadf4731669e073f64c547a6e4cd144e97ce66325cf6bbde97e9d81e4d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3382-2018",
+   "short": "Ordenanza 3382/2018",
+   "title": "Ordenanza 3382/2018: Impóngase, el nombre de “José Antonio Souto” al Natatorio Municipal de De la Garma del Partido de Adolfo Gonzáles Chaves.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1409/contents/1248668",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1409/contents/1248668",
+     "sha256": "7c19e4c8a1dd9df30f15bac2d8e2fc56a01d00e0796f5e42b461160f30bbce50"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3387-2018",
+   "short": "Ordenanza 3387/2018",
+   "title": "Ordenanza 3387/2018: Se autoriza al Sr. Intendente Municipal Dr. Eduardo Marcelo Santillán, DNI 16.336.943, a tramitar ante NACION LEASING SA una o mas operaciones de leasing para arrendamiento con opción a compra de 3 (tres) Motoniveladoras",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1409/contents/1248707",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1409/contents/1248707",
+     "sha256": "6693c7290258913ba65cddc3306331bbbd1361d05b4db87b6982b9b639fe492e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3388-2018",
+   "short": "Ordenanza 3388/2018",
+   "title": "Ordenanza 3388/2018: Establécese el día 13 de Abril de cada año como “Día de la Lucha Docente” en el Municipio de Adolfo Gonzales Chaves, en homenaje a las docentes fallecidas y a las que sufren las consecuencias por los daños físicos y psic",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1409/contents/1248717",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1409/contents/1248717",
+     "sha256": "df1add6080973b0df24fe6b7687170310ea578323f2aabfbcb335a407dcd1bf9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3391-2018",
+   "short": "Ordenanza 3391/2018",
+   "title": "Ordenanza 3391/2018: Autorízase al Intendente Municipal a suscribir con el Ministerio de Salud de la provincia de Buenos Aires, el Convenio de Colaboración y Adhesión para la Implementación del Servicio de Atención Médica de Emergencias de l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1409/contents/1248744",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1409/contents/1248744",
+     "sha256": "51b6e9ee377fa60127abf19b46cbdd52777141aeb32a121c4715410caf621022"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3392-2018",
+   "short": "Ordenanza 3392/2018",
+   "title": "Ordenanza 3392/2018: Acéptase la donación de las siguientes obras de la Artista Plástica Margarita MATUS:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1409/contents/1248750",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1409/contents/1248750",
+     "sha256": "dd3141299845fb1ffcd2fab5acc5effaa29f0c623dedc843f810bc7c11c4d95c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3395-2018",
+   "short": "Ordenanza 3395/2018",
+   "title": "Ordenanza 3395/2018: DECLÁRASE de Interés Municipal el Proyecto de construcción de una central eólica de generación eléctrica en el distrito de Adolfo Gonzales Chaves, en un inmueble rural identificado catastralmente como: Circ. III, Sección",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1465/contents/1252493",
+   "versions": [
+    {
+     "from": "2018-10-17",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1465/contents/1252493",
+     "sha256": "253b810ec4bcf6b574704c719f926a960a80f1bbcf669c71130398017615493b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3398-2018",
+   "short": "Ordenanza 3398/2018",
+   "title": "Ordenanza 3398/2018: Reconócese y autorízase el pago de la deuda existente con la empresa Radiográfica Oeste S.R.L, de acuerdo a las facturas B000100022817, B000100022818, B000100022948 correspondiente al ejercicio 2014; B000100023050, B0001",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1465/contents/1252500",
+   "versions": [
+    {
+     "from": "2018-10-17",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1465/contents/1252500",
+     "sha256": "803e0858c4b3bc347451faeb7ebbfd6923ce9ffdd5dc6ddc0708f812abec39eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3400-2018",
+   "short": "Ordenanza 3400/2018",
+   "title": "Ordenanza 3400/2018: Convalídase el Convenio y su ANEXO I firmado entre el “SERVICIO DE HEMOTERAPIA” del HIGA DR. JOSÉ PENNA”, de la ciudad de Bahía Blanca, representado por su Directora Dra. Marta Bertin y el CENTRO MUNICIPAL DE SALUD DEL P",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1465/contents/1252506",
+   "versions": [
+    {
+     "from": "2018-10-17",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1465/contents/1252506",
+     "sha256": "d4bf1751854c52e8d00b4466e9300d51fcb35a746f56b82efece39be6acf78dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3397-2018",
+   "short": "Ordenanza 3397/2018",
+   "title": "Ordenanza 3397/2018: Adhiérase la Municipalidad de Adolfo Gonzales Chaves al Régimen Provincial de Responsabilidad Fiscal Municipal dispuesto por la Ley Nº 13.295 con las modificaciones, sustituciones e incorporaciones establecidas por la Le",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1466/contents/1254209",
+   "versions": [
+    {
+     "from": "2018-10-21",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1466/contents/1254209",
+     "sha256": "1116edd76d5311d91f15d1cc7c6f5a4ed52177bb422cca493affbf8dcd7415a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3403-2018",
+   "short": "Ordenanza 3403/2018",
+   "title": "Ordenanza 3403/2018: Ratifícase el Contrato de Comodato o Préstamo de Uso gratuito y su Anexo I, celebrado entre la Municipalidad de Adolfo Gonzales Chaves, representada por el Intendente Municipal, Doctor Eduardo Marcelo SANTILLÁN y el Cons",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1628/contents/1266416",
+   "versions": [
+    {
+     "from": "2018-11-30",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1628/contents/1266416",
+     "sha256": "a4bde229eaeb6221809582f7896dd1241cb945a1f5f7c34f09d12494d2703b48"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3411-2018",
+   "short": "Ordenanza 3411/2018",
+   "title": "Ordenanza 3411/2018: Autorízase al Señor Intendente Municipal Doctor Eduardo Marcelo SANTILLÁN, en representación de la MUNICIPALIDAD DE ADOLFO GONZALES CHAVES, a firmar con el MINISTERIO DE SEGURIDAD de la Provincia de Buenos Aires, represe",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1761/contents/1278863",
+   "versions": [
+    {
+     "from": "2018-12-29",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1761/contents/1278863",
+     "sha256": "84b0884693b76cc44db6697fa64d0efe9b68d0d2866b872cb824a120c5e3d49c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3412-2018",
+   "short": "Ordenanza 3412/2018",
+   "title": "Ordenanza 3412/2018: Ratificase el Contrato de Locación, celebrado entre la Sra. Susana Beatriz BARCELLANDI y el Sr. Jorge Luis BARCELLANDI por una parte, y por la otra la MUNICIPALIDAD DE ADOLFO GONZALES CHAVES, representada por el Intenden",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1761/contents/1278871",
+   "versions": [
+    {
+     "from": "2018-12-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1761/contents/1278871",
+     "sha256": "bc025da11fa7ef53940805c6b0aa4f6a358070d66e860a44fa0b048fafec4a7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3415-2018",
+   "short": "Ordenanza 3415/2018",
+   "title": "Ordenanza 3415/2018: Modifícase el Artículo 6 inciso “k” y Artículo 9º; de la Ordenanza Nº 3084 los que quedarán redactados de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1761/contents/1278913",
+   "versions": [
+    {
+     "from": "2018-12-29",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1761/contents/1278913",
+     "sha256": "853666ec4f736578ff5428d9f3f7f2ce1720e635ea8803e318eab4ea8c297aab"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3416-2018",
+   "short": "Ordenanza 3416/2018",
+   "title": "Ordenanza 3416/2018: Impóngase el nombre Alicia Azqueta a la calle que lleva el Número 1, la que pasará a denominarse Calle 1 “Alicia Azqueta”.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1761/contents/1278936",
+   "versions": [
+    {
+     "from": "2018-12-29",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1761/contents/1278936",
+     "sha256": "28ee71c091558761184da054e449f44c9454c22c63982ed8eb843f787902d37b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3419-2018",
+   "short": "Ordenanza 3419/2018",
+   "title": "Ordenanza 3419/2018: CONVALÍDASE el Decreto Municipal Nº 1162/2018, dictado ad referéndum del Honorable Concejo Deliberante, sobre autorización para hacer efectivo el pago de la deuda de Pesos DOSCIENTOS NUEVE ($ 209,00) correspondiente a pu",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1761/contents/1278952",
+   "versions": [
+    {
+     "from": "2018-12-29",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1761/contents/1278952",
+     "sha256": "bbe760ce940e9978f7b77cdffc39c1f94af6aa14892656bd65d763529e07172a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3451-2019",
+   "short": "Ordenanza 3451/2019",
+   "title": "Ordenanza 3451/2019: El objeto de la presente Ordenanza es crear y regular el mecanismo de Acceso a la Información Pública, en el ámbito de la Municipalidad del Partido de Adolfo Gonzales Chaves y sus Delegaciones Municipales, Entes y Organi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371200",
+   "versions": [
+    {
+     "from": "2019-09-05",
+     "units": 19,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371200",
+     "sha256": "ab3384697822b83a9cdff9a3ab1ff0d70456b6133f21e87cfaaaa39ba263ab86"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3421-2019",
+   "short": "Ordenanza 3421/2019",
+   "title": "Ordenanza 3421/2019: ADJUDÍQUESE, a la señora ANAHI SOLEDAD ROTETA – DNI. 37.785.374, la vivienda identificada catastralmente como CIRCUNSCRIPCION XVI – SECCION A – MANZANA 38 z (2) – PARCELA 11 – Casa N° 1 – PARTIDA INMOBILIARIA N° 80.159.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2601/contents/1371004",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 61,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2601/contents/1371004",
+     "sha256": "f1ac0fa8d18b7529d4243e321644179e9cc568a2cd5690c78b8f8afff8ceed4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3423-2019",
+   "short": "Ordenanza 3423/2019",
+   "title": "Ordenanza 3423/2019: CONVALÍDASE el CONTRATO de alquiler de un aparato para Cirugía Laparoscópica y la ADDENDA adjunta, celebrado entre la Señora Lucía Verónica LEIVA y la Municipalidad de Adolfo Gonzales Chaves, representada por el Intenden",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2601/contents/1371014",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2601/contents/1371014",
+     "sha256": "2d5ec945a5ae294463f04368f602270d45a485a145cfcb76f58f595c858418c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3425-2019",
+   "short": "Ordenanza 3425/2019",
+   "title": "Ordenanza 3425/2019: Convalídase el Decreto municipal Nº 888/2018 de reconocimiento de servicios prestados por el Doctor Roberto Daniel CUERDA, Legajo Nº 372 .",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2601/contents/1371022",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2601/contents/1371022",
+     "sha256": "bad8559aac0c57b94145d7dfceebc5bc549aaacd304c3c5f55cad6db6af43f3c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3428-2019",
+   "short": "Ordenanza 3428/2019",
+   "title": "Ordenanza 3428/2019: Apruébanse las Promesas de Venta suscriptas por el Intendente Municipal y los aspirantes a adquirir terrenos ubicados en las Manzanas 39, 50, 51, 64 y 70, seleccionados por la Comisión de Evaluación y Pre adjudicación de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2601/contents/1371056",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2601/contents/1371056",
+     "sha256": "fb8de28cd32497dd70f8da33ee8f3946d344bd559bbc8a24aa4c49ec082c512b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3429-2019",
+   "short": "Ordenanza 3429/2019",
+   "title": "Ordenanza 3429/2019: Convalídase el CONTRATO DE LOCACIÓN firmado entre el CENTRO DE CAMIONEROS DE ADOLFO GONZALES CHAVES, representado por su Presidente Sr. Ricardo Alberto GROPPASONNO, DNI Nº 12.536.904, por una parte y la Municipalidad de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2601/contents/1371058",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2601/contents/1371058",
+     "sha256": "3eb6ae316b6f20cb7a44183ca9fdea778ac37da4f2a1f285ca0d60af5498b491"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3430-2019",
+   "short": "Ordenanza 3430/2019",
+   "title": "Ordenanza 3430/2019: Facúltese al Departamento Ejecutivo a eximir del pago por el Ejercicio 2019 de la Tasa por Servicios Urbanos a personas y entidades que se encuentren encuadradas en los siguientes incisos:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2601/contents/1371062",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 17,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2601/contents/1371062",
+     "sha256": "878dde49acfee06109ece370f596416c35704839dcfda155fa5a4371cc0490bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3432-2019",
+   "short": "Ordenanza 3432/2019",
+   "title": "Ordenanza 3432/2019: Convalídase el Convenio de Asistencia y Soporte con R. A. F. A. M., firmado entre el Municipio de Adolfo Gonzales Chaves representado por el Intendente Municipal, Dr. Eduardo Marcelo SANTILLÁN y la Empresa GRID IT SEVEN ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371127",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371127",
+     "sha256": "833f6e0fee6fe79f9802fb09096c9efd1c157e0ef9fabf1ade62fac71330519b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3433-2019",
+   "short": "Ordenanza 3433/2019",
+   "title": "Ordenanza 3433/2019: Adhiérese la Municipalidad de Adolfo Gonzales Chaves a lo establecido en la Ley Provincial Nº 15.104.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371136",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371136",
+     "sha256": "c78d4883df6f45693061ba037f0698e54ccc9c20f6ed7154fd0216b3833b032c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3436-2019",
+   "short": "Ordenanza 3436/2019",
+   "title": "Ordenanza 3436/2019: Autorízase al Intendente Municipal a suscribir Convenios y adherir a todos los Programas dependientes del Ministerio de Desarrollo Social de la Provincia de Buenos Aires para el año 2019.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371158",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371158",
+     "sha256": "971007fae8524336d47c2494540fd40c4876e55d538a3375a0c67e1b0401139a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3437-2019",
+   "short": "Ordenanza 3437/2019",
+   "title": "Ordenanza 3437/2019: Convalídase el CONTRATO DE LOCACIÓN firmado entre el Señor Javier Andrés Rossi por una parte y la Municipalidad de Adolfo Gonzales Chaves, representada por el Sr. Intendente Municipal, Dr. Eduardo Marcelo SANTILLÁN, por ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371160",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371160",
+     "sha256": "4faf6c3d933436538293bbda06edae587fe4f51b52f4e1df9e653282390c064b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3438-2019",
+   "short": "Ordenanza 3438/2019",
+   "title": "Ordenanza 3438/2019: Convalídase el Convenio y su ANEXO I firmado entre el “SERVICIO DE HEMOTERAPIA” del HIGA DR. JOSÉ PENNA”, de la ciudad de Bahía Blanca, representado por su Directora Dra. Marta Bertin y el CENTRO MUNICIPAL DE SALUD DEL P",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371162",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371162",
+     "sha256": "1e183d71900ecd7be2ba00fd7f4087dcd71e10ab2fd4f85f2557259613acdbcb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3440-2019",
+   "short": "Ordenanza 3440/2019",
+   "title": "Ordenanza 3440/2019: Apruébase el Listado de la segunda pre-adjudicación de las viviendas construidas en la Localidad de Juan E. Barra, en el marco del Plan Federal Plurianual 182 viviendas, aprobado por la Comisión Pre-evaluadora de la Loca",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371168",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371168",
+     "sha256": "3db6c75202ce68f5b48e51cec710f2dfade4129f4d9798d886f5aff836243767"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3442-2019",
+   "short": "Ordenanza 3442/2019",
+   "title": "Ordenanza 3442/2019: Apruébase el Listado de Adjudicatarios para viviendas del Plan Cuidemos a los Abuelos, de la localidad de De la Garma:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371175",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371175",
+     "sha256": "0b4fd352ea20ae6569f5547f5327d2077f235bc1e85cbdd646bd016530caca6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3443-2019",
+   "short": "Ordenanza 3443/2019",
+   "title": "Ordenanza 3443/2019: Apruébase el otorgamiento de Asistencia Financiera No Reintegrable al Consejo Escolar local, para el pago de proveedores del Servicio Alimentario Escolar, por la suma de Pesos TRESCIENTOS SESENTA Y NUEVE MIL QUINIENTOS C",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371182",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371182",
+     "sha256": "6dec450f889fd8a2a726cf3126ed1187d5d51d1622e8f01cd33739f9c4025c7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3445-2019",
+   "short": "Ordenanza 3445/2019",
+   "title": "Ordenanza 3445/2019: Autorízase al Departamento Ejecutivo a entregar a cuenta de precio, las siguientes unidades vehiculares:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371185",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371185",
+     "sha256": "495138ea1a3caa631678d9381abdf5f26a7d7ccf7945fc72838cdc3f36c4c0ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3450-2019",
+   "short": "Ordenanza 3450/2019",
+   "title": "Ordenanza 3450/2019: Apruébese el Procedimiento de Sumarios Administrativos (PSA) el que como ANEXO se hace parte de la presente. El mismo será de aplicación obligatoria en el ámbito de la Municipalidad de Adolfo Gonzales Chaves, a partir de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371192",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371192",
+     "sha256": "d90139530de3bcfe4a0947425f3c51aac144e7d2a19ef008d8547ae3cccd817b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3452-2019",
+   "short": "Ordenanza 3452/2019",
+   "title": "Ordenanza 3452/2019: Adjudíquese en forma definitiva a la señora Yesica Paola MIR, la vivienda que ocupa mediante Acta de Tenencia Precaria, ubicada en calle Las Heras Nº 275 de Adolfo Gonzales Chaves, la que se encuentra asentada sobre lote",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371205",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371205",
+     "sha256": "993bb1a9b9400b56fa1446d49711a147a8a323021a65cb6c2707b4c301de878d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3454-2019",
+   "short": "Ordenanza 3454/2019",
+   "title": "Ordenanza 3454/2019: Adjudíquese en forma definitiva a la señora Leticia Betiana PAN, la vivienda que ocupa mediante Acta de Tenencia Precaria, ubicada en calle Tucumán Nº 66, de la localidad de De la Garma, Partido de Adolfo Gonzales Chaves",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371214",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371214",
+     "sha256": "0c68988592c89f83810a28a1908c250f134f66daf6a23124dfa3d5eb72e8ba8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3455-2019",
+   "short": "Ordenanza 3455/2019",
+   "title": "Ordenanza 3455/2019: Aféctanse al Dominio Público Municipal las parcelas 1 y 5 a 27 de la Manzana 38C, parcelas 1 a 28 de la manzana 38I, parcelas 1 a 28 de manzana 38 M, parcelas 1 a 28 de la manzana 38N, parcelas 1 a 28 de la manzana 38R, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371216",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371216",
+     "sha256": "f77a9981535f3c2875b92b17dc7b03048002598c31ef841a6d9d23634b8c1232"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3460-2019",
+   "short": "Ordenanza 3460/2019",
+   "title": "Ordenanza 3460/2019: Modifícase en el artículo 2º de la Ordenanza Nº 3434/2018, el Nº de Parcela, quedando redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371233",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371233",
+     "sha256": "97d7a68a9a7c0d93c6d0566a324ca95846cd4e30d47bf734e81aca06546768a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3461-2019",
+   "short": "Ordenanza 3461/2019",
+   "title": "Ordenanza 3461/2019: Desadjudícase la vivienda Nº 110 del Barrio Plurianual Reconvertido 182 viviendas en Adolfo Gonzales Chaves, cuyos datos catastrales son: Circ. XVI, Secc. A, Mz. 38T(1), Parcela 15, Partida Nº 80.103, que fuera adjudicad",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371338",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371338",
+     "sha256": "274153ccb331aff8186e1974a4d150d1cedbfa85bebaad28eb494163b6b0ea25"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3463-2019",
+   "short": "Ordenanza 3463/2019",
+   "title": "Ordenanza 3463/2019: Procédase a convalidar los excesos de las partidas presupuestarias detalladas en el Anexo I adjunto.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371345",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371345",
+     "sha256": "13fadab2983e65a04bb3a280749cc1307ec601caa9d16cb27e121ddb10cfb05a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3468-2019",
+   "short": "Ordenanza 3468/2019",
+   "title": "Ordenanza 3468/2019: Autorízase al Departamento Ejecutivo a registrar como deuda y pagar como gasto de ejercicios anteriores (Art 54 Decreto Provincial 2980/2000 RAFAM y Art 140 y 141 del Reglamento de Contabilidad), cuyo importe asciende a ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371387",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371387",
+     "sha256": "17f0e6bfac0cd0b66954e3816998317ad85cc84224a29c2c5bd52e3062d4aaf7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3475-2019",
+   "short": "Ordenanza 3475/2019",
+   "title": "Ordenanza 3475/2019: Impóngase el nombre de “DR. MATEO PRIETO”, al geriátrico municipal que funciona en el Hospital “Anita Elicagaray”.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371433",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371433",
+     "sha256": "ef28b0a9f417913f1819f9c7d275f2ac62e72737197e8bdcde38c2927f13a8d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3476-2019",
+   "short": "Ordenanza 3476/2019",
+   "title": "Ordenanza 3476/2019: Impóngase el nombre de “BARRIO EVA DUARTE DE PERON”, al complejo de viviendas ubicadas entre las calles Maipú – Serrano – España y Av. 9 de Julio de la localidad de De la Garma, Pdo. de Adolfo Gonzales Chaves”.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371435",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371435",
+     "sha256": "313b2ec8b9e6b1b833f57633e18cb6ba439266e2d6180923896d5798ecf513ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3481-2019",
+   "short": "Ordenanza 3481/2019",
+   "title": "Ordenanza 3481/2019: Establecese, con carácter General, un régimen de regularización, condonación y facilidades de pago de deudas para los tributos referentes a Tasas, Derechos y Contribución por mejoras, vigentes o no, vencidos al 31 de dic",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371447",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 18,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371447",
+     "sha256": "398fccfa99c9c45b8161def4963febfddac370bc2657d8defb3952807ff093af"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3484-2019",
+   "short": "Ordenanza 3484/2019",
+   "title": "Ordenanza 3484/2019: Derógase la Ordenanza municipal Nº 3408/2018.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371507",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371507",
+     "sha256": "b4bb17bdd903deabf04188c65d625f288f9f8a20b65c9e4eaa02d6eb7f693c3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3486-2019",
+   "short": "Ordenanza 3486/2019",
+   "title": "Ordenanza 3486/2019: El presente Reglamento será de aplicación obligatoria:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371520",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 36,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371520",
+     "sha256": "54aa1fef1d6e61424974c5e40c6d995a7cd51459f51aa91426b14719a6102bce"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3488-2019",
+   "short": "Ordenanza 3488/2019",
+   "title": "Ordenanza 3488/2019: CONVALÍDASE el Decreto Municipal Nº 783/2019, dictado por el Departamento Ejecutivo de la Municipalidad de Adolfo Gonzales Chaves, Ad Referéndum del Honorable Concejo Deliberante, adjudicando a la Empresa “SISTEMAS AMBIE",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371529",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371529",
+     "sha256": "b3be63798cf917e2fdd8e20987989eea90bcf5e2d28872cd3f0b85e482ae5318"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3491-2019",
+   "short": "Ordenanza 3491/2019",
+   "title": "Ordenanza 3491/2019: Modificase el Artículo 7º de la Ordenanza Nº 3180 el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371536",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371536",
+     "sha256": "495bb5499b5e623f750d92b564c6dae28b39194cc5d0e6337cb707e1e7152bd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3492-2019",
+   "short": "Ordenanza 3492/2019",
+   "title": "Ordenanza 3492/2019: IMPONGASE el nombre de “LINO SOLFA” al Sector Industrial Planificado (SIP) de Adolfo Gonzales Chaves.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371537",
+   "versions": [
+    {
+     "from": "2019-09-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2651/contents/1371537",
+     "sha256": "39defbeaefb4db52d8d61d875b8213a761638dc4fd8821e6b99b0afb81549ad1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3499-2019",
+   "short": "Ordenanza 3499/2019",
+   "title": "Ordenanza 3499/2019: Convalidase el Decreto 801/2019 dictado “ad-referéndum” del Honorable Concejo Deliberante , el cual se adjunta como Anexo I y que forma parte de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2824/contents/1390835",
+   "versions": [
+    {
+     "from": "2019-11-03",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2824/contents/1390835",
+     "sha256": "e82d237e6f1d01686eb7d427bee9d1d16f0cc959562c948b82c42b13a22ea5f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3501-2019",
+   "short": "Ordenanza 3501/2019",
+   "title": "Ordenanza 3501/2019: Apruébase la Promesa de Venta celebrada entre el Intendente Municipal, Dr. Eduardo Marcelo SANTILLÁN, DNI Nº 16.336.943 y el señor Angel BAEZ, DNI 23.367.556 y su cónyuge, Yanina Yesica RODRIGUEZ, DNI Nº 29.163.348, sobr",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2971/contents/1403499",
+   "versions": [
+    {
+     "from": "2019-12-08",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2971/contents/1403499",
+     "sha256": "89acae467a6fcc8a0e003eff4eade9a53b432135571c2336af5ffc09e8950601"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3502-2019",
+   "short": "Ordenanza 3502/2019",
+   "title": "Ordenanza 3502/2019: Acéptase la donación realizada por la Asociación Cooperadora del Hospital Anita Eliçagaray, a favor de la Municipalidad de Adolfo Gonzales Chaves para ser afectados al uso del Hospital local, de los siguientes bienes:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2971/contents/1403500",
+   "versions": [
+    {
+     "from": "2019-12-08",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2971/contents/1403500",
+     "sha256": "1f9f771fcdc0613a79e07e15b9512776c3bdbae1b76aae7f623e25b08ea1de95"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3503-2019",
+   "short": "Ordenanza 3503/2019",
+   "title": "Ordenanza 3503/2019: Autorízase el uso de espacio público al señor Sergio Damián SCHETTINO, DNI Nº 35.140.473, para construcción de un cerco para proteger espacio que ocupará con mesas y sillas sobre acera de calles Lavalle y Sarmiento de Ad",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2971/contents/1403501",
+   "versions": [
+    {
+     "from": "2019-12-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2971/contents/1403501",
+     "sha256": "1032cc26f1faf5c7d6f3d842d8f4a182fc27f1aa051273338ffd1c762caa8636"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3504-2019",
+   "short": "Ordenanza 3504/2019",
+   "title": "Ordenanza 3504/2019: Reconócese y autorízase el pago de la deuda pendiente de pago con la Sociedad Argentina de Autores y Compositores de Música (S.A.D.A.I.C.) cuyo monto asciende a la suma de Pesos SETENTA MIL NOVECIENTOS ($ 70.900,00) Y CO",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2971/contents/1403502",
+   "versions": [
+    {
+     "from": "2019-12-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2971/contents/1403502",
+     "sha256": "561c453f470d9a5e2892196fd16a21372b5cc8fa6294d425b8f1fdd012a464ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3510-2020",
+   "short": "Ordenanza 3510/2020",
+   "title": "Ordenanza 3510/2020: Facúltase al Departamento Ejecutivo a eximir del pago por el Ejercicio 2020 de la Tasa por Servicios Urbanos a personas y entidades que se encuentren encuadradas en los siguientes incisos:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3146/contents/1419452",
+   "versions": [
+    {
+     "from": "2020-01-19",
+     "units": 17,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3146/contents/1419452",
+     "sha256": "7aacc078399d2535ba63322dc6ed044814e11a1544cbe659f21882b95490fda3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3517-2020",
+   "short": "Ordenanza 3517/2020",
+   "title": "Ordenanza 3517/2020: Establécese, con carácter General, un régimen de regularización, condonación y facilidades de pago de deudas para los tributos referentes a Pavimento y Contribución por mejoras, vigentes o no.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4003/contents/1474857",
+   "versions": [
+    {
+     "from": "2020-08-16",
+     "units": 18,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4003/contents/1474857",
+     "sha256": "f50ab7e5d2441b5639dacc18e43789fa8ebf42d00849a2695aece8c2fcb6c7f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3518-2020",
+   "short": "Ordenanza 3518/2020",
+   "title": "Ordenanza 3518/2020: Establécese para el Partido de Adolfo Gonzales Chaves los siguientes descuentos por pago contado y la posibilidad de formalizar convenios incluyendo en estos las obligaciones originadas por contravenciones a la normativa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4003/contents/1474967",
+   "versions": [
+    {
+     "from": "2020-08-16",
+     "units": 15,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4003/contents/1474967",
+     "sha256": "5ed89ef9a91b7c2e3cc6d241368b1419d338a8ea9530dd89b74e4d341943694b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3519-2020",
+   "short": "Ordenanza 3519/2020",
+   "title": "Ordenanza 3519/2020: Convalidase el Decreto 331/2020 dictado “ad-referéndum” del Honorable Concejo Deliberante, el cual se adjunta como Anexo I y que forma parte de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4003/contents/1475022",
+   "versions": [
+    {
+     "from": "2020-08-16",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4003/contents/1475022",
+     "sha256": "c05311c4bf4a3249d06df2a6b9d63d122d7b5a0c6496bb96a0025a81cef9ed72"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3522-2020",
+   "short": "Ordenanza 3522/2020",
+   "title": "Ordenanza 3522/2020: Adhiérase la Municipalidad de Adolfo Gonzales Chaves a la Ley Provincial N° 15.134, enmarcada en lo establecido en la Ley Nacional N° 27.499 – Ley Micaela –, sobre capacitación obligatoria en temáticas de género y violen",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4003/contents/1475893",
+   "versions": [
+    {
+     "from": "2020-08-16",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4003/contents/1475893",
+     "sha256": "9ed0d16e0f25e1fc77213b10eaa0d381223cdda9c4e9cbeecd9a51c89c4cbaca"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3523-2020",
+   "short": "Ordenanza 3523/2020",
+   "title": "Ordenanza 3523/2020: CONVALIDASE EL CONVENIO ESPECIFICO DE PRACTICAS PROFESIONALIZANTES ASISTIDAS firmado entre la Municipalidad de Adolfo Gonzales Chaves, representada por el Intendente Municipal, Dr. Eduardo Marcelo SANTILLAN, DNI N° 16.33",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4003/contents/1475898",
+   "versions": [
+    {
+     "from": "2020-08-16",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4003/contents/1475898",
+     "sha256": "a45b8f6ef679834f68d5344f0e60b4d5a31a553953421523302653e3d88f2fd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3530-2021",
+   "short": "Ordenanza 3530/2021",
+   "title": "Ordenanza 3530/2021: Reconocese y autorizase el pago de la deuda a la empresa Radiográfica Oeste S.R.L. cuyo monto asciende a la suma de Pesos Setenta Mil Diecinueve con 72/100 ($70.019,72.-) correspondiente a los periodos 2017 y 2018, según",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575873",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575873",
+     "sha256": "a26aa486ccd1a227f05a36fb7cbfb01f60cc82bf1ded43d1908e616eab636591"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3537-2021",
+   "short": "Ordenanza 3537/2021",
+   "title": "Ordenanza 3537/2021: Adhiérase la Municipalidad de Adolfo Gonzales Chaves, a la Ley Nacional N° 27.520, Ley de presupuestos mínimos de adaptación y mitigación al cambio climático global, por la cual se establecen los presupuestos mínimos en ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575905",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575905",
+     "sha256": "5d425ab2d5da96f102173b66edcce13b3f8bb455c2520f0ed40e043dbc8b7821"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3540-2021",
+   "short": "Ordenanza 3540/2021",
+   "title": "Ordenanza 3540/2021: Convalidase el CONVENIO firmado entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires, representado por el señor Ministro Agustín Pablo SIMONE y la Municipalidad de Adolfo Gonzales C",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575908",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575908",
+     "sha256": "e34acd73e50f164af2456357ffac4c77d46d13f5bd30b7c0e6312f3f654dc6fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3541-2021",
+   "short": "Ordenanza 3541/2021",
+   "title": "Ordenanza 3541/2021: AUTORIZASE al Departamento Ejecutivo a entregar a cuenta de vehículo utilitario de mayor valor la unidad usada: CHEVROLET Modelo SPIN 1.8 N LTZ A/T 7 pasajeros, Tipo Sedan 5 puertas, Dominio OPF603, Motor marca CEVROLET ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575909",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575909",
+     "sha256": "c0badd369fb724d95a11adf9deb52b6f3c686e270cc38362707e702fb488729e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3542-2021",
+   "short": "Ordenanza 3542/2021",
+   "title": "Ordenanza 3542/2021: Modificase la escala salarial establecida en el artículo 1 y 2 de la Ordenanza Complementaria Nro. 3513/2019 del Presupuesto vigente para el corriente Ejercicio 2020, y fijase a partir del 1 de Septiembre de 2020, la esc",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575910",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575910",
+     "sha256": "e333f94953690bae22c2548f8063eea7d19978a55c130ccd37a6e52334c97140"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3543-2021",
+   "short": "Ordenanza 3543/2021",
+   "title": "Ordenanza 3543/2021: Reconocese y autorizase el pago de la reliquidación de antigüedad al empleado municipal Mariano Alberto Sosa, legajo 823 cuyo monto a continuación se detalla:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575911",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575911",
+     "sha256": "6c1744d6ee932bc403e7bf099267bb6880a8c5d09c79ec9f6543e472d28cce5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3548-2021",
+   "short": "Ordenanza 3548/2021",
+   "title": "Ordenanza 3548/2021: Reconocese y autorizase el pago de la deuda a Masson Ana María cuyo monto asciende a la suma de Pesos Cincuenta mil ($ 50.000.-) correspondiente a un servicio de sepelio del periodo 2019, según factura adjunta.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575984",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575984",
+     "sha256": "622b22fae4deb79ab5fc92080ba41937279fe15b36f9d3425cbacdf322f37812"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3550-2021",
+   "short": "Ordenanza 3550/2021",
+   "title": "Ordenanza 3550/2021: Adhiérase la Municipalidad de Adolfo Gonzales Chaves a los términos de la Ley Provincial Nº 15.165 que declara la Emergencia social, económica, productiva y energética en el ámbito de la Provincia de Buenos Aires, de con",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575986",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575986",
+     "sha256": "69c0174a699133d0ce174de9a541b98f727a4fba029d2ee781f210298832ffbf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3555-2021",
+   "short": "Ordenanza 3555/2021",
+   "title": "Ordenanza 3555/2021: Eximir del pago por el Ejercicio 2021 de la Tasa por los Servicios Urbanos exceptuando el valor del alumbrado público, a personas y entidades que se encuentren encuadradas en los siguientes incisos:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575991",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 17,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1575991",
+     "sha256": "355023a33685f74fdedbe45cd84e5da48d484e0169e27abaaf051b5e22dc9be8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3556-2021",
+   "short": "Ordenanza 3556/2021",
+   "title": "Ordenanza 3556/2021: Dispónese que, en un plazo máximo de treinta (30) días, se deberá realizar un relevamiento de postes, caños, cables aéreos y subterráneos, plantas de transferencia, antenas, colocados en el espacio público o privado, tan",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1576366",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1576366",
+     "sha256": "ee30b6280f4b5ccea66b58d1138e9b5acacdf3a69d8bf3b44b5babb21fe688b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3557-2021",
+   "short": "Ordenanza 3557/2021",
+   "title": "Ordenanza 3557/2021: Modificase la escala salarial establecida en el artículo 1 y 2 de la Ordenanza Complementaria Nro. 3513/2019 del Presupuesto vigente para el corriente Ejercicio 2020, y fijase a partir del 1 de Octubre de 2020, la escala",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1576372",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5408/contents/1576372",
+     "sha256": "c751e001c2fea04910f057958f30807d42b2dc027ba440b1da7b3050c70029a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3561-2021",
+   "short": "Ordenanza 3561/2021",
+   "title": "Ordenanza 3561/2021: Fijase en la suma de PESOS SETECIENTOS OCHENTA Y CINCO MILLONES NOVENTA Y DOS MIL QUINIENTOS OCHENTA Y SIETE ($ 785.092.587,00.-) el Cálculo de Recursos de la Asamblea Administrativa Municipal que regirá para el Ejercici",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610028",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610028",
+     "sha256": "e474465be5095f1b4c5afcff35fd6051f835daa749ebbd4522ddbda38f789a8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3562-2021",
+   "short": "Ordenanza 3562/2021",
+   "title": "Ordenanza 3562/2021: Establécese a partir de la promulgación de la presente ordenanza, la regulación sobre el control de perros vagabundos y/o abandonados y/o callejeros sin control, en el Distrito de Adolfo Gonzales Chaves.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610029",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 43,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610029",
+     "sha256": "ebf918101f1e86e9b226fa40f16758b8524837804befbb23c715f3ca1b01f2c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3570-2021",
+   "short": "Ordenanza 3570/2021",
+   "title": "Ordenanza 3570/2021: Establécese para el Partido de Adolfo Gonzales Chaves los siguientes descuentos por pago contado y la posibilidad de formalizar convenios incluyendo en estos las obligaciones originadas por contravenciones a la normativa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610037",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 15,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610037",
+     "sha256": "29a31be57dc097afdd82c4f36b308bad9528c45fe7bf75bee067cf116d01599d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3571-2021",
+   "short": "Ordenanza 3571/2021",
+   "title": "Ordenanza 3571/2021: AUTORÍZASE al Departamento Ejecutivo Municipal a realizar la venta a la Empresa TRANSPORTE RUBEN O. GARCIA S. A., con domicilio en Calle España Nº 644 de la ciudad de Adolfo Gonzales Chaves, Partido del mismo nombre, Pro",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610038",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610038",
+     "sha256": "0eecc26b9fa0ddd4892ad958a01c09624669e0e0a059a059cc60e520308b9c38"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3573-2021",
+   "short": "Ordenanza 3573/2021",
+   "title": "Ordenanza 3573/2021: Autorízase al Intendente Municipal, Doctor Eduardo Marcelo SANTILLAN, DNI Nº 16.336.943, a formalizar Contratos de locación con opción a compra, bajo la modalidad de Leasing con PROVINCIA LEASING S. A. , en forma de cont",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610040",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610040",
+     "sha256": "35e45e4b8666e76098ac9c76ecb9dec1aae132d1148a3bf6fa70f9eb68355fa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3574-2021",
+   "short": "Ordenanza 3574/2021",
+   "title": "Ordenanza 3574/2021: AUTORÍZASE al Intendente Municipal, a formalizar los Actos Administrativos necesarios con el objeto de ejecutar el Programa Fondo de Infraestructura Municipal (FIM 2021), por el monto de Pesos Veintitrés millones ochocie",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610041",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610041",
+     "sha256": "46341d412672c1393c416174318218fd86ffd2fe9b6e4df5fca46b136fa36340"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3575-2021",
+   "short": "Ordenanza 3575/2021",
+   "title": "Ordenanza 3575/2021: AUTORÍZASE al Intendente Municipal, a formalizar los Actos Administrativos necesarios con el objeto de ejecutar el Programa de Emergencia de Infraestructura Municipal de la Provincia de Buenos Aires (PREIMBA) por el mont",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610042",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610042",
+     "sha256": "d05afe149404f6aad670492b55b4614bd77539ec31d187f50b9198cd7b3fae01"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3576-2021",
+   "short": "Ordenanza 3576/2021",
+   "title": "Ordenanza 3576/2021: CONVALÍDASE el CONVENIO MARCO DE COOPERACIÓN TÉCNICO INSTITUCIONAL, suscripto entre la Municipalidad de Adolfo Gonzales Chaves, representada por el Intendente Municipal, Dr. Eduardo Marcelo SANTILLAN, DNI Nº 16.336.943 y",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610043",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610043",
+     "sha256": "cab6ead64f8b3b4950d773384860093023a429694e70fbb4fb45792d40dbf187"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3577-2021",
+   "short": "Ordenanza 3577/2021",
+   "title": "Ordenanza 3577/2021: Créase la cuenta Fondos Rotatorios par el Mejoramiento Habitacional Bonaerense destinado a los fines de otorgar créditos reintegrables a vecinos de la Municipalidad de Adolfo Gonzales Chaves.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610044",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610044",
+     "sha256": "8064c4d4a8e71a26c01ce8698f2744edb69b3678f82df75ed17e8e85ea2e9f3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3579-2021",
+   "short": "Ordenanza 3579/2021",
+   "title": "Ordenanza 3579/2021: CONVALÍDASE el CONTRATO DE LOCACION celebrado entre la Municipalidad de Adolfo Gonzales Chaves, representada por el Intendente Municipal, Dr. Eduardo Marcelo SANTILLAN, DNI Nº 16.336.943 y la señora María Eugenia RODRIGU",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610046",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610046",
+     "sha256": "bd0301c16c76477bbc337418f61456b993d56da59ae9652f33e1852657f76408"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3581-2021",
+   "short": "Ordenanza 3581/2021",
+   "title": "Ordenanza 3581/2021: Autorízase al Sr. Intendente Municipal Sr. Eduardo Marcelo Santillán, DNI. Nº 16.336.943 y a la Secretaria de Gobierno y Hacienda Sra. María Susana Suárez, DNI Nº 21.448.268, a tramitar ante el BANCO DE INVERSIÓN Y COMER",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610050",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610050",
+     "sha256": "c4f9257fae963bdcf829fdf2fbabac17a19bf6315682a1bf56914e6e03e5714e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3583-2021",
+   "short": "Ordenanza 3583/2021",
+   "title": "Ordenanza 3583/2021: ADJUDÍCASE en forma definitiva a la señora María Luján REYNOSA, DNI Nº 20.042.417, la vivienda que ocupa mediante Acta de Tenencia Precaria, ubicada en calle Tucumán Nº 475 de Adolfo Gonzales Chaves, la que se encuentra ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610054",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610054",
+     "sha256": "3f773eaf492a5b3afab9eb4deda6a7960c3914c7d8899417cb46b7fa72621d58"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3584-2021",
+   "short": "Ordenanza 3584/2021",
+   "title": "Ordenanza 3584/2021: Crease el Registro Publico Municipal de Vacunación covid-19 del distrito de Adolfo Gonzales Chaves.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610057",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610057",
+     "sha256": "412a5f8a238d1893c5a6f03116596281db5f6ca24e7ca9516e5d5a3bc09a4247"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3586-2021",
+   "short": "Ordenanza 3586/2021",
+   "title": "Ordenanza 3586/2021: CONVALÍDASE el Convenio firmado entre la Dirección Nacional de Vialidad, representada por el Administrador General, Sr. Gustavo ARRIETA, y el Intendente Municipal de Adolfo Gonzales Chaves, Dr. Eduardo Marcelo SANTILLAN,",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610061",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610061",
+     "sha256": "04cca4d2f65c150011deef02e25c232a0d8189e2397e7916c6e47dd866d21ac2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3587-2021",
+   "short": "Ordenanza 3587/2021",
+   "title": "Ordenanza 3587/2021: CONVALÍDASE el CONTRATO DE LOCACION y su Anexo I, que como Anexo I forma parte de la presente Ordenanza, celebrado entre la Municipalidad de Adolfo Gonzales Chaves, representada por el Intendente Municipal, Dr. Eduardo M",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610064",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610064",
+     "sha256": "ad7aeab500de74bd6008ddab2177497f0d57d60f65fafe609114b5ca5cd92fc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3590-2021",
+   "short": "Ordenanza 3590/2021",
+   "title": "Ordenanza 3590/2021: Convalídase el Decreto municipal Nº 383/2021, el que como Anexo I pasa a formar parte de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610071",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610071",
+     "sha256": "429660c4eb37994d22ee84a9624681ead42225c9a1a76867a954b4befda94e9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3591-2021",
+   "short": "Ordenanza 3591/2021",
+   "title": "Ordenanza 3591/2021: Autorizase al Departamento Ejecutivo municipal a generar y organizar un plan de reconstrucción de los departamentos ubicados en los monoblocks del ex fonavi 70 viviendas, que no se encuentran habitables, mediante un sist",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610073",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610073",
+     "sha256": "ffaf4e7a9ce5996e502b9db6ce7fea4dbd16922832d12d2f85be08a7c39f48a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3594-2021",
+   "short": "Ordenanza 3594/2021",
+   "title": "Ordenanza 3594/2021: Convalidase el Decreto 1212 / 2020 correspondiente a incrementos salariales para el mes de Diciembre / 2020 y que forma parte de la presente ordenanza.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610080",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610080",
+     "sha256": "3a1fe8612c5d0b5a73eef95723aafda1b3b9849df79ba13e9b03b37f044d638b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3595-2021",
+   "short": "Ordenanza 3595/2021",
+   "title": "Ordenanza 3595/2021: Ratificase el Contrato de Locación, que como Anexo I pasa a formar parte de la presente Ordenanza, celebrado entre el Sr. MANUEL ANTUNES y la MUNICIPALIDAD de ADOLFO GONZALES CHAVES, representada por el Intendente Munici",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610081",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5845/contents/1610081",
+     "sha256": "2f8df8b11fe6195d31fe7bcc4d9610522dfa79436cbf1cbe2c54080377604868"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3600-2022",
+   "short": "Ordenanza 3600/2022",
+   "title": "Ordenanza 3600/2022: EXIMASE del pago de la Tasa por Habilitación de Comercios e Industria, de la Tasa de Seguridad e Higiene y del Derecho de Construcción, a las empresas que se radiquen en el Sector Industrial Planificado desde la fecha de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1665436",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1665436",
+     "sha256": "54c032954d257703b9e4e6965ccff5f2e43b37904d488537c0a654702e0c898c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3603-2022",
+   "short": "Ordenanza 3603/2022",
+   "title": "Ordenanza 3603/2022: Acéptase la donación realizada por la Asociación Cooperadora del Hospital Anita Eliçagaray, a favor de la Municipalidad de Adolfo Gonzales Chaves para ser afectados al uso del Hospital local, de los bienes detallados a c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1665912",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1665912",
+     "sha256": "a107521159d4fb08cf86030a49e75976fa1398cd36db1745169a9443d9e5ffb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3604-2022",
+   "short": "Ordenanza 3604/2022",
+   "title": "Ordenanza 3604/2022: CREASE dentro del Área Urbana U/R2, en la localidad de Adolfo Gonzales Chaves, la ZONA URBANIZADA ESPECIAL, designada como U/DUE 19, en el predio cuya Nomenclatura Catastral es Circunscripción I, Sección B, Fracción V, c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1665920",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1665920",
+     "sha256": "9c4c52ac0177f61744fddcd79a13d655aa359bf46fbb76d6d75680164574bee1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3614-2022",
+   "short": "Ordenanza 3614/2022",
+   "title": "Ordenanza 3614/2022: Declárase obligatorio el \"Control de Ratas”, por su carácter de reservorio de enfermedades transmisibles al ser humano, en todo el Distrito de Adolfo Gonzales Chaves, mediante la realización de las tareas de desratizació",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1666725",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1666725",
+     "sha256": "8c527eea1647c2de8e37e29c25bae57844dde73deff46e2ce9f0a22fcd9ec86a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3618-2022",
+   "short": "Ordenanza 3618/2022",
+   "title": "Ordenanza 3618/2022: CONVALÍDASE el Convenio firmado entre PROVINCIA MICROEMPRESAS S.A., representada por su Presidente, Señor Alejandro FORMENTO; el BANCO DE LA PROVINCIA DE BUENOS AIRES, representado su Presidente, señor Juan Miguel CUATTR",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1667133",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1667133",
+     "sha256": "3aa2e47289e58ef7002ebcd0b0ac2748653789dd40f1092bd6d410b36bf611ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3620-2022",
+   "short": "Ordenanza 3620/2022",
+   "title": "Ordenanza 3620/2022: Apruébanse la Promesa de Venta suscripta por el Intendente Municipal y la ciudadana Cintia Mariana DIAZ, por el terreno ubicado en calle Lucio V. López, entre calles Córdoba y Yapeyú de esta ciudad, identificado catastra",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1667141",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1667141",
+     "sha256": "ff0b2cb3310c9b95b2f67a801f29076f22f70453e1f93f7acbd268afe5cc14aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3623-2022",
+   "short": "Ordenanza 3623/2022",
+   "title": "Ordenanza 3623/2022: APRUÉBANSE las Promesas de Venta de terrenos municipales, suscriptas por el Intendente Municipal y los beneficiarios del Programa Bonaerense II – Solidaridad, según Nómina integrante del artículo 2º de la presente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1667168",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1667168",
+     "sha256": "0fdc8d6f0bdca477f3553740be9454317ba6178d06db27a49227fbcee7f44a1d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3626-2022",
+   "short": "Ordenanza 3626/2022",
+   "title": "Ordenanza 3626/2022: CONVALÍDASE el Convenio firmado entre el Ministerio de las Mujeres, Políticas de Géneros y Diversidad Sexual de la Provincia de Buenos Aires y la Municipalidad de Adolfo Gonzales Chaves, representada por el Intendente Mu",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1667191",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1667191",
+     "sha256": "18ff16c692834b43e470b7ff377fccfbd2e047cbd46f087c7b0bca183027e4ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3628-2022",
+   "short": "Ordenanza 3628/2022",
+   "title": "Ordenanza 3628/2022: Facúltese al Departamento Ejecutivo a eximir del pago por el Ejercicio 2022 de la Tasa por los Servicios Urbanos exceptuando el valor del alumbrado público, a personas y entidades que se encuentren encuadradas en los sig",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1667194",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 17,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6458/contents/1667194",
+     "sha256": "5f740165c122741ac3701ee95b613d0afe0403180d9a755623525f2dddffb92b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3631-2022",
+   "short": "Ordenanza 3631/2022",
+   "title": "Ordenanza 3631/2022: CONVALIDASE el Convenio firmado entre la Municipalidad de Adolfo Gonzales Chaves, representada por el Intendente Municipal, Dr. Eduardo Marcelo SANTILLAN, y la Caja de Retiros, Jubilaciones y Pensiones de las Policías de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6628/contents/1681228",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6628/contents/1681228",
+     "sha256": "ab0233a2d7c08b5eb4e73caa82188344081e7bb02ece986ea9a7b2fd36eb8ed3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3637-2023",
+   "short": "Ordenanza 3637/2023",
+   "title": "Ordenanza 3637/2023: Establécese, con carácter General, un régimen de regularización, condonación y facilidades de pago de deudas para los tributos referentes a Pavimento y Contribución por mejoras, vigentes o no.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1855871",
+   "versions": [
+    {
+     "from": "2022-12-31",
+     "units": 18,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1855871",
+     "sha256": "6c48f4143feff344c29d825290b56935a1963165d92556506d1f65ca2b6bd203"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3642-2023",
+   "short": "Ordenanza 3642/2023",
+   "title": "Ordenanza 3642/2023: Desadjudícase la vivienda N.º 18 del Barrio Plurianual Reconvertido 182 viviendas en Adolfo Gonzales Chaves, efectuada por Ordenanza N.º 3421 a Marisa Juliana Aznarez, cuyos datos catastrales son: Circ. XVI, Secc. A Mz. ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1856721",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1856721",
+     "sha256": "1cc4e58bb19bfc1289fb63654600e7b7d2d237ac7159387175f5619af56df27c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3643-2023",
+   "short": "Ordenanza 3643/2023",
+   "title": "Ordenanza 3643/2023: Adhiérase la Municipalidad de Adolfo Gonzales Chaves a la Ley 15.205, que tiene por objeto implementar una estrategia de abordaje para la Concientización, Prevención y Erradicación del Grooming, en el ámbito de la Provin",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1856728",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1856728",
+     "sha256": "2e3fe206c811d3c8c3434b73e5fff6fc912a676df2a2c61058aa645b4d0a4618"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3645-2023",
+   "short": "Ordenanza 3645/2023",
+   "title": "Ordenanza 3645/2023: DESAFÉCTASE de la reserva para Espacio Verde Público, al inmueble identificado catastralmente como Circunscripción I, Sección A, Manzana 6b, Parcela 1, de la ciudad de Adolfo Gonzales Chaves, que será afectada a la const",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1856745",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1856745",
+     "sha256": "07bb9dac43ada5062ac3f5c6d3a8ae2147a54aa8ef2af5de7e0d64a646fee64c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3646-2023",
+   "short": "Ordenanza 3646/2023",
+   "title": "Ordenanza 3646/2023: DESADJUDÍCASE la vivienda del Barrio Plurianual Reconvertido 182 viviendas en De la Garma, adjudicada por Ordenanza Nº 3405 a Alberto Damián Díaz, cuyos datos catastrales son: Circ. XI, Secc. A, Mz. 57, Parcela 16, Parti",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1856752",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1856752",
+     "sha256": "235d6e6b064b62611688b3efb5235d287f7fc7ca26e6e802b9c4e32601e80481"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3656-2023",
+   "short": "Ordenanza 3656/2023",
+   "title": "Ordenanza 3656/2023: INCORPÓRESE al Patrimonio Histórico Cultural del Distrito Adolfo Gonzales Chaves, el aljibe existente en la Plaza de la Localidad de Estación Vásquez.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1858256",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1858256",
+     "sha256": "4bbad3f12c84670ecfb28539db4bb31d901a1feb28b4af48059cd9b03c043907"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3657-2023",
+   "short": "Ordenanza 3657/2023",
+   "title": "Ordenanza 3657/2023: Acéptase la donación de una placa de cerámica ofrecida por integrantes del Proyecto “Malvinas 40 años”, iniciado en el Taller del Arroyo del Barrio Savoia de City Bell, cuya foto forma parte de la presente Ordenanza como",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1858257",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1858257",
+     "sha256": "bab547d66ac824e836cc3f8166d2fbbeffeb3551e28fc23c251a9b99533e2da0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3658-2023",
+   "short": "Ordenanza 3658/2023",
+   "title": "Ordenanza 3658/2023: Acéptase la donación de dos cuadros que pertenecieran a la familia de Don Juan Elicagaray y su esposa Doña Ana Paysás, cuya foto se agrega como Anexos I y II a la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1858259",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1858259",
+     "sha256": "35f029828d6f17c2cfcb8b2058f6be4b6b4bd80c3ef81d38cb3698f9b17f332e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3661-2023",
+   "short": "Ordenanza 3661/2023",
+   "title": "Ordenanza 3661/2023: CONVALÍDASE el Decreto Municipal Nº 663/2022, dictado por el Departamento Ejecutivo de la Municipalidad de Adolfo Gonzales Chaves, Ad Referéndum del Honorable Concejo Deliberante, adjudicando a la firma “BAHÍA ECOLÓGICO ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1858807",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1858807",
+     "sha256": "d91cc8914e83bdc0bcd39137280cd0baedf60d10afee138d57893e0ae4117c97"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3672-2023",
+   "short": "Ordenanza 3672/2023",
+   "title": "Ordenanza 3672/2023: OBJETO, regular y establecer medidas de seguridad para las prácticas corporales de enseñanza o entrenamiento en espacios al aire libre, públicos o privados en forma grupal o personalizada y que perciban un pago como pres",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1861123",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8443/contents/1861123",
+     "sha256": "5bae45a57c3096563fb5fda9e39d9839e4a213fe1614255b2ba48d531b77b69e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3676-2023",
+   "short": "Ordenanza 3676/2023",
+   "title": "Ordenanza 3676/2023: Acéptase la donación de una pieza de hierro fundido, realizada por el reconocido artesano local Julio César Gachetegui, cuya foto forma parte de la presente Ordenanza como ANEXO I.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8843/contents/1892171",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8843/contents/1892171",
+     "sha256": "7d731e02f59cfc9249564c773e8d53a969a9d793618dc0ec80c8027232b2c551"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3678-2023",
+   "short": "Ordenanza 3678/2023",
+   "title": "Ordenanza 3678/2023: Modificase el artículo 5° de la Ordenanza N.º 2415/2003, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8843/contents/1892189",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8843/contents/1892189",
+     "sha256": "041bdccd3930ea1d7fb1409c7868f76bd979f811d4caa8c3007a8bed3dcb4e50"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3680-2023",
+   "short": "Ordenanza 3680/2023",
+   "title": "Ordenanza 3680/2023: Acéptase la donación de un cuadro realizado por la vecina Dora Mabel Amor, que representa un sector de la Plaza 25 de Mayo e incluye la Iglesia Inmaculada Concepción y la Pirámide de Mayo, cuya foto forma parte de la pre",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9039/contents/1909164",
+   "versions": [
+    {
+     "from": "2023-07-16",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9039/contents/1909164",
+     "sha256": "916a600eaf5b56dc36e920146dff42441cb6572b566cdfc845f896c64a0e54ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3683-2023",
+   "short": "Ordenanza 3683/2023",
+   "title": "Ordenanza 3683/2023: AFÉCTESE a la reserva para Espacio Verde Público, los inmuebles designados catastralmente como Circunscripción XI, Manzana 58, Parcelas 1,2,27 y 28, en la localidad de De la Garma, Partido de Adolfo Gonzales Chaves.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9450/contents/1949086",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9450/contents/1949086",
+     "sha256": "6771d1b529bf39acf297a32b616ad929e2a5745a5f531df0f41f47446af1e519"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3684-2023",
+   "short": "Ordenanza 3684/2023",
+   "title": "Ordenanza 3684/2023: DESAFÉCTASE del uso para viviendas, establecido en la Ordenanza N° 2212, afectado al Plan Familia Propietaria, el inmueble identificado catastralmente como Circ. XIV, Sec. A, Manzana 27, Partida Nº9065.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9537/contents/1957762",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9537/contents/1957762",
+     "sha256": "26c1e25a47aac2ff6384465564338478cc6471f521037aa3d727067821ab6e07"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3685-2023",
+   "short": "Ordenanza 3685/2023",
+   "title": "Ordenanza 3685/2023: Crease en el ámbito de la Secretaría de Salud Pública del Municipio de Adolfo Gonzales Chaves, el Plan Integral de Prevención de la Obesidad (PIPO).",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9537/contents/1957782",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9537/contents/1957782",
+     "sha256": "01f44a43cba12aff9cf0ab6e3af12f7effb5aa298851e60dfb1e458d4ed10a36"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3686-2023",
+   "short": "Ordenanza 3686/2023",
+   "title": "Ordenanza 3686/2023: Establézcase la creación del Programa Cielo Limpio, el cual tendrá como finalidad la eliminación progresiva del cableado aéreo y tendido de telefonía fija e internet que no se encuentre en uso o que se encuentre en condi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9910/contents/1995857",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9910/contents/1995857",
+     "sha256": "4949583d45ea5772e97bcce279878634f59c73b15565fec577f64e425ebc134e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3691-2024",
+   "short": "Ordenanza 3691/2024",
+   "title": "Ordenanza 3691/2024: Adherir a la Campaña Internacional denominada “Banco Rojo”, a los fines de visibilizar y concientizar sobre la necesidad de erradicar la violencia de género y el femicidio.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2035519",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2035519",
+     "sha256": "078e8afdd67b4a42e23957fd97dec6b6ac45d651ce87ef13e4c6c896f0ed3bdf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3693-2024",
+   "short": "Ordenanza 3693/2024",
+   "title": "Ordenanza 3693/2024: Acéptase la donación de un cuadro pintado por la señora Susana Sosa cuya foto se agrega como Anexo I a la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2035536",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2035536",
+     "sha256": "ccebf8fe53210f3c9b9e7b1af474ca647315c481061a64433da73722dc73db39"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3694-2024",
+   "short": "Ordenanza 3694/2024",
+   "title": "Ordenanza 3694/2024: Acéptase la donación efectuada por la Brigada Anfibia de Infantería de Marina, consistente en los siguientes elementos, cuyas fotos formas parte de la presente Ordenanza como Anexos I, II, III, IV, V, VI y VII:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2035551",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2035551",
+     "sha256": "6592a7b500fe94b7975168cb5f65f0605480c35b4d13487daa04185a4c5a769c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3695-2024",
+   "short": "Ordenanza 3695/2024",
+   "title": "Ordenanza 3695/2024: CONVALÍDASE el Decreto Municipal Nº 635/2023, dictado por el Departamento Ejecutivo de la Municipalidad de Adolfo Gonzales Chaves, Ad Referéndum del Honorable Concejo Deliberante, adjudicando a la firma “BAHÍA ECOLOGÍCO ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2035556",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2035556",
+     "sha256": "f201525b7e7904bec0e5a5adf5b413f0e9a19b4f65e29cc474993e4ba8430ed0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3696-2024",
+   "short": "Ordenanza 3696/2024",
+   "title": "Ordenanza 3696/2024: CONVALÍDASE el Decreto Municipal Nº 320/2023, dictado por el Departamento Ejecutivo de la Municipalidad de Adolfo Gonzales Chaves, Ad Referéndum del Honorable Concejo Deliberante, adjudicando a la firma “BAHÍA ECOLÓGICO ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2035564",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2035564",
+     "sha256": "4cab4d3b76f75e9c58ff7590eec6469676dde7b52bca0dfae5731e1b4aafeaea"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3698-2024",
+   "short": "Ordenanza 3698/2024",
+   "title": "Ordenanza 3698/2024: Ratificase al Contrato de Locación, que como Anexo I pasa a formar parte de la presente Ordenanza, celebrado entre el Sr. BERARDOZZI FRANCISCO NICOLAS y la MUNICIPALIDAD DE ADOLFO GONZALES CHAVES, representada por el Int",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036148",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036148",
+     "sha256": "d38a227f82f6a3e3347a1b9abaf948af7f261d4ee7bd1ff21743f8ff88ae45c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3699-2024",
+   "short": "Ordenanza 3699/2024",
+   "title": "Ordenanza 3699/2024: Ratificase el Contrato de Locación, que como Anexo I pasa a formar parte de la presente Ordenanza, celebrado entre el Sr. ANTONOVICH NESTOR MIGUEL y la MUNICIPALIDAD de ADOLFO GONZALES CHAVES, representada por el Intende",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036155",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036155",
+     "sha256": "f33843aa046f7707cf69215a3dd528231f29e80e9530ee14b60dee8e91778a84"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3702-2024",
+   "short": "Ordenanza 3702/2024",
+   "title": "Ordenanza 3702/2024: Reconócese y autorízase el pago de la diferencia salarial correspondiente a ejercicios anteriores, a la trabajadora municipal Yanina Mariel LOPAZZO, Legajo Nº 1.525, según se detalla a continuación:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036195",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036195",
+     "sha256": "e38d107a6e06f172dcee3d32db4f4a0637431defd1d9fd8026afcb0d85b32ee0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3704-2024",
+   "short": "Ordenanza 3704/2024",
+   "title": "Ordenanza 3704/2024: Convalidase el Decreto Municipal 59/2023, dictado Ad Referéndum del Honorable Concejo Deliberante, el que como Anexo I pasa a formar parte de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036210",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036210",
+     "sha256": "621d34aff68415fdf3c0c32ff519e06d9ac1c97dbd9aeaeb276839d1fb6d6d62"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3705-2024",
+   "short": "Ordenanza 3705/2024",
+   "title": "Ordenanza 3705/2024: Convalidase el Decreto Municipal 445/2023, dictado Ad Referéndum del Honorable Concejo Deliberante, el que como Anexo I pasa a formar parte de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036680",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036680",
+     "sha256": "69bfb281191751a2602023844e6845d3e65989da89296a70439154109244e865"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3707-2024",
+   "short": "Ordenanza 3707/2024",
+   "title": "Ordenanza 3707/2024: Convalidase el Decreto Municipal 717/2023, dictado Ad Referéndum del Honorable Concejo Deliberante, el que como Anexo I pasa a formar parte de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036696",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036696",
+     "sha256": "a0d20e99c7b9853b95b38dd114a4cde56fedda983dc9b442cae6e374fe30e185"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3708-2024",
+   "short": "Ordenanza 3708/2024",
+   "title": "Ordenanza 3708/2024: Convalidase el Decreto Municipal 820/2023, dictado Ad Referéndum del Honorable Concejo Deliberante, el que como Anexo I pasa a formar parte de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036712",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036712",
+     "sha256": "52dbbe079fc358c77c04815f5dbbaae2039fcd964624fdc649b780de38e4f61e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3710-2024",
+   "short": "Ordenanza 3710/2024",
+   "title": "Ordenanza 3710/2024: Facúltese al Departamento Ejecutivo a eximir del pago por el Ejercicio 2024 de la Tasa por los Servicios Urbanos exceptuando el valor del alumbrado público, a personas y entidades que se encuentren encuadradas en los sig",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036722",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 17,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10359/contents/2036722",
+     "sha256": "fd67a977fae7d097f5daa389c33c0af5f0f10d6cdd56fa234e8aa0b42efb9a5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3711-2024",
+   "short": "Ordenanza 3711/2024",
+   "title": "Ordenanza 3711/2024: Ordenanza 3711/2024",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10736/contents/2061593",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 46,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10736/contents/2061593",
+     "sha256": "5067a9347f92736ad6b7628d61c1337da7d5dc19ad27b77a10d2095a8453f1b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3712-2024",
+   "short": "Ordenanza 3712/2024",
+   "title": "Ordenanza 3712/2024: Fíjase en la suma de PESOS SEIS MIL SEISCIENTOS NUEVE MILLONES NOVECIENTOS OCHO MIL QUINIENTOS DOCE ($ 6.609.908.512,00.-) el Cálculo de Recursos de la Administración Municipal que regirá para el Ejercicio Financiero 202",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10736/contents/2061602",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10736/contents/2061602",
+     "sha256": "6b5c9905a321c0282821caba9c9efcc70954522d47f326fc03c7d6cea1cfe94c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3714-2024",
+   "short": "Ordenanza 3714/2024",
+   "title": "Ordenanza 3714/2024: Convalidar el Decreto Municipal N° 152/2024, dictado ad referéndum del Honorable Concejo Deliberante el que, como Anexo I, forma parte integrante de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10736/contents/2061621",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10736/contents/2061621",
+     "sha256": "efda7946663633ad383b11ec2c5503c58dda7f979b3e46fcdbd50ae0cec56104"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3717-2024",
+   "short": "Ordenanza 3717/2024",
+   "title": "Ordenanza 3717/2024: Autorizar al Departamento Ejecutivo a registrar y abonar, como deuda de legítimo abono, la suma de pesos trescientos cincuenta y cuatro mil seiscientos cincuenta y tres con 62/100 ($354.653,62) al proveedor N° 2577, Juan",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10736/contents/2062011",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10736/contents/2062011",
+     "sha256": "78564ed84f82b3bf2455779ab3d078a38fd0db3be93779f71281572c6d49e1f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3719-2024",
+   "short": "Ordenanza 3719/2024",
+   "title": "Ordenanza 3719/2024: Autorizar al Departamento Ejecutivo a registrar y abonar, como deuda de legítimo abono, la suma de pesos un millón cuatrocientos sesenta y dos mil ochocientos treinta y seis con setenta y siete centavos ($1.462.836,77) a",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10736/contents/2062020",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10736/contents/2062020",
+     "sha256": "d9afc4185f8370d957e82e56e7be914dcf61ac29cfdccec9591cb431cbaa09c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3720-2024",
+   "short": "Ordenanza 3720/2024",
+   "title": "Ordenanza 3720/2024: Ordénese la construcción de una “mini-rotonda urbana” en la intersección de las calles Avenida San Martín y Avenida Perón; eligiendo el modelo de mini-rotonda más adecuado para el lugar.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10736/contents/2062025",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10736/contents/2062025",
+     "sha256": "a82f45817558aa5c27d0ed92d9f25b40bd3ce22a5822c608ee7573669b0f02bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3724-2024",
+   "short": "Ordenanza 3724/2024",
+   "title": "Ordenanza 3724/2024: Autorizar al Departamento Ejecutivo a registrar y abonar, como deuda de legítimo abono, la suma de pesos sesenta y cuatro millones ciento cincuenta y cinco mil cuatrocientos cincuenta y dos con cuarenta y un centavos ($6",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2122567",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2122567",
+     "sha256": "f8047567346004f1cfdc2ddd2856a65851c7a7ee8c34bfa91ab5cd1c9849df84"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3725-2024",
+   "short": "Ordenanza 3725/2024",
+   "title": "Ordenanza 3725/2024: Procédase a convalidar los excesos de las partidas presupuestarias detalladas en el Anexo I, correspondientes al Ejercicio 2023, y que forma parte de la presente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2122570",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2122570",
+     "sha256": "816683b99c77d4eb055d65a237eac55de66124729440210313a0d389db06814f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3726-2024",
+   "short": "Ordenanza 3726/2024",
+   "title": "Ordenanza 3726/2024: Convalidar el Convenio firmado entre la municipalidad de Adolfo Gonzales Chaves, representado por el ex Intendente Municipal, SANTILLAN, Eduardo Marcelo, y la Fundación Banco de la Provincia de Buenos Aires, representado",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2124817",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2124817",
+     "sha256": "caaa60b8b37a2aafe63cb3d6872a9c5ba74fd547b5ef7ae346853f659aef9d9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3727-2024",
+   "short": "Ordenanza 3727/2024",
+   "title": "Ordenanza 3727/2024: Modificase el artículo 5° de la Ordenanza 3107, el cual quedara redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2124822",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2124822",
+     "sha256": "485b6753176b50e73591ee63457b8e4702eb0e626652851e6c21d3de78138e9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3730-2024",
+   "short": "Ordenanza 3730/2024",
+   "title": "Ordenanza 3730/2024: Convalidar el Convenio firmado entre la Municipalidad de Adolfo Gonzales Chaves, la Municipalidad de Dorrego, la Municipalidad de Coronel Pringles y la Municipalidad de Tres Arroyos, el que se encuentra adunado al presen",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2124831",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2124831",
+     "sha256": "be83e25d8bfce3804a8ec6c0471cc087e231123d7193917d9e52b349c0de2c51"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3731-2024",
+   "short": "Ordenanza 3731/2024",
+   "title": "Ordenanza 3731/2024: Convalidar los Decretos Municipales N° 261/2024 y 500/2024, dictados ad-referéndum del Honorable Concejo Deliberante los que, como Anexo I y II, forman parte integrante de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2125390",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2125390",
+     "sha256": "47711023d6abc320b843cb6b5f104616527806106e86632be786f0029a1c4bb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3732-2024",
+   "short": "Ordenanza 3732/2024",
+   "title": "Ordenanza 3732/2024: Modificar el artículo 7 de la Ordenanza Complementaria del Cálculo de Recursos y Presupuesto General para el Ejercicio 2024, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2125393",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2125393",
+     "sha256": "e71512e04260440c58d298095a6b797d462965059b6aa52e8132d0e048290398"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3733-2024",
+   "short": "Ordenanza 3733/2024",
+   "title": "Ordenanza 3733/2024: Autorizar al Departamento Ejecutivo a registrar y abonar, como deuda de legítimo abono, la suma de pesos novecientos cuarenta y dos mil cuatrocientos ochenta y seis con cuarenta y seis centavos ($942.486,46) a la Sra. ZO",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2125402",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 18,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2125402",
+     "sha256": "0a173fb43063a60cf02e5b44c1b390c5ff6c4718d54ee1875ba4f410da0435ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3735-2024",
+   "short": "Ordenanza 3735/2024",
+   "title": "Ordenanza 3735/2024: Autorizar al Departamento Ejecutivo a registrar y abonar, como deuda de legítimo abono, la suma de pesos cuatrocientos cuarenta y un mil trescientos cuarenta con cuarenta y seis centavos ($441.340,46) al Sr. DÍAZ, José L",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2125412",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 23,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2125412",
+     "sha256": "96cea22d322a661bc39424a70a3053d70ff2474ef058ead51fda143c16a90954"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3736-2024",
+   "short": "Ordenanza 3736/2024",
+   "title": "Ordenanza 3736/2024: Autorizar la intervención a través de su pintado a una senda peatonal con los colores de la Diversidad en la intersección de calles Bartolomé Mitre y Juan Elicagaray de nuestra ciudad, trazando los colores respectivos, l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2125774",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2125774",
+     "sha256": "92c6ac4edc66a77f6a4ce1ae911c8cb2db7c54d24f96b5d547665fc9efd6003f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3737-2024",
+   "short": "Ordenanza 3737/2024",
+   "title": "Ordenanza 3737/2024: CREACIÓN: Créase bajo la órbita de la Subsecretaría de Desarrollo Económico, Social y Comunitario el Registro Municipal de Apoyo para Comedores barriales, comunitarios y merenderos en el distrito de Adolfo Gonzales Chave",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2125776",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 12,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2125776",
+     "sha256": "9c50656cafbbc4ec8775b717536065d26882d9ad3b03ad9447e9c17cc1296c7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3742-2024",
+   "short": "Ordenanza 3742/2024",
+   "title": "Ordenanza 3742/2024: Convalidar el convenio general y el convenio específico, celebrado entre la Universidad Nacional de Mar del Plata y el Municipio de Adolfo Gonzales Chaves, suscripto con fecha 19 de julio de 2024, los que, como ANEXO I y",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2126844",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2126844",
+     "sha256": "14dd1c82058b262e8b22a484e85b5915dfcc95014579489c0ba5006d4244a9be"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3743-2024",
+   "short": "Ordenanza 3743/2024",
+   "title": "Ordenanza 3743/2024: Impóngase el nombre de “Norma Gayoso de Aberastegui” al “Salón de Usos Múltiples”, ubicado dentro del Centro de Atención Primaria de la Salud (CAPS) ubicado en la intersección de las calles Tucumán y Carlos Pellegrini de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2126853",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2126853",
+     "sha256": "5cb2ac24ea710fcc1e930428b9a3d375cc17025cf960130f8f4290a853824569"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3744-2024",
+   "short": "Ordenanza 3744/2024",
+   "title": "Ordenanza 3744/2024: Adherir a la solicitud del Proyecto de Ley para eximir del pago del impuesto a las ganancias a trabajadores de la Salud por los ingresos mensuales en guardias obligatorias y horas extras en el Sistema de Salud, presentad",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2126856",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2126856",
+     "sha256": "39b10df101b20bc2ca470888077c9ceb42bfefd5d8fd1956df8c689867f93088"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3746-2024",
+   "short": "Ordenanza 3746/2024",
+   "title": "Ordenanza 3746/2024: RATIFICASE el Contrato de Comodato o Préstamo de Uso gratuito y su Anexo I, celebrado entre la Municipalidad de Adolfo Gonzales Chaves, representada por la Intendenta Municipal, Licenciada Miriam Lucía GOMEZ y el Consejo",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2126861",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2126861",
+     "sha256": "2ffce8c24cba14ba94220c4796dda0814128c91c6eaaadd03a8c797fe13a74d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3748-2024",
+   "short": "Ordenanza 3748/2024",
+   "title": "Ordenanza 3748/2024: Modifíquese el ARTICULO SEGUNDO (Ord. N° 3090) el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2126868",
+   "versions": [
+    {
+     "from": "2024-11-03",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11508/contents/2126868",
+     "sha256": "adcddbbbe3b18edbc9724e03923c0a9ed22b21b9d69114b29728ec6f28581ecc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3750-2025",
+   "short": "Ordenanza 3750/2025",
+   "title": "Ordenanza 3750/2025: Impóngase el nombre “Edgardo F. Thomas” al consultorio N° 1 que se encuentra en el Caps de la localidad de De la Garma.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2180799",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2180799",
+     "sha256": "885f821749832887176a8288287340268f72da5fd3f1afb7298c2bcc630ce76d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3752-2025",
+   "short": "Ordenanza 3752/2025",
+   "title": "Ordenanza 3752/2025: Desadjudicar al Sr. Lucero Miguel Ángel, DNI N° 30.665.153, la vivienda ubicada en calle Juan Elicagaray N° 1308, cuyos datos catastrales son: Circunscripción XVI – Sección A – Manzana 38t (1) – Parcela 1 – Casa N° 125 –",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2180815",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2180815",
+     "sha256": "cf7bc1f201d2145dfab39c4156f3af4bc496435cc1fd901ee2c614cb47962faa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3753-2025",
+   "short": "Ordenanza 3753/2025",
+   "title": "Ordenanza 3753/2025: Autorizar al Departamento Ejecutivo a registrar y abonar, como deuda de legítimo abono, la suma de pesos ciento veintidós mil nueve con 45/100 ($ 122.009,45) al Sr. Roberto Gustavo Checchia, legajo N° 1663, conforme la d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2180824",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2180824",
+     "sha256": "d674c8cc2ea201063a895ccf35e97f2c7e8f65c7921c8987ce72dc5a407e3081"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3754-2025",
+   "short": "Ordenanza 3754/2025",
+   "title": "Ordenanza 3754/2025: Convalidar la adenda suscripta con fecha 9 de octubre de 2024, entre la Municipalidad de Adolfo Gonzales Chaves, representada por la Intendenta Municipal, Miriam Lucia Gómez, DNI N° 38.244.568 y la Caja de Retiros, Jubil",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2181354",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2181354",
+     "sha256": "c5b41e52536a0b4a36e3f6fb41cda0c211adef8d1ac24cd97944ba25ef06ea47"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3755-2025",
+   "short": "Ordenanza 3755/2025",
+   "title": "Ordenanza 3755/2025: Aceptar la permuta del Inmueble identificado catastralmente como Circunscripción I, Sección A, Manzana 26, Parcela 8, Partida 543, ubicado en calle Alvarado entre calle América y Avenida Carricart de Adolfo Gonzales Chav",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2181358",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2181358",
+     "sha256": "b5194dc44ad9b73b250b73b345e59bc2ae82136eb5e5a7caacfb24dfa9eea961"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3756-2025",
+   "short": "Ordenanza 3756/2025",
+   "title": "Ordenanza 3756/2025: Autorizar al Departamento Ejecutivo, a la firma del convenio de pago y el convenio de honorarios que como Anexo I y II forman parte integrante del presente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2181363",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2181363",
+     "sha256": "26add965d852ad8faa27bb9f7f0b5c113d3de1157b09c1b0d0d3c34acd1370a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3759-2025",
+   "short": "Ordenanza 3759/2025",
+   "title": "Ordenanza 3759/2025: Autorizar al Departamento Ejecutivo a suscribir la adenda al Contrato de Concesión Municipal de Distribución y Comercialización de Energía Eléctrica con la Cooperativa de Provisión de Servicios Públicos de De La Garma Li",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182037",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182037",
+     "sha256": "0594c850b53773f5bbc546827649c9d56a0fbeb223231bb9f7c1bf1625fefc90"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3761-2025",
+   "short": "Ordenanza 3761/2025",
+   "title": "Ordenanza 3761/2025: Autorízase la instalación de Balcones Gastronómicos para la ocupación de calles para colocar sillas, mesas y similares en locales habilitados que solicitan el permiso ante la autoridad de aplicación. La utilización de di",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182055",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 12,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182055",
+     "sha256": "2d2f7ad942d559db7469305ef11ab026299968dedb9deecf9720c1b484139938"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3762-2025",
+   "short": "Ordenanza 3762/2025",
+   "title": "Ordenanza 3762/2025: Crear el Programa de Becas Deportivas del Distrito de Adolfo Gonzales Chaves para desarrollar, favorecer y afianzar la actividad deportiva federada y de rendimiento en todo el ámbito local con proyección provincial, naci",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182063",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 16,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182063",
+     "sha256": "9f64cb9407ef158e1e1266a0fdcd6a17ac6e65ad3c36605ef37795492033d422"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3763-2025",
+   "short": "Ordenanza 3763/2025",
+   "title": "Ordenanza 3763/2025: Desadjudicar, al Sr. Gonzalez, Claudio DNI N° 30.599.449 y a la Sra. Callegari Natalia DNI N° 33.537.331, la vivienda Nº 71 del Plan Federal Plurianual (Construcción de 113 Viviendas), ubicada en calle Lavalle bis Nº 132",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182077",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182077",
+     "sha256": "19140b18ec648001cf427a39d531212aa8879c0b987e7052f52de77fe9e1eaad"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3764-2025",
+   "short": "Ordenanza 3764/2025",
+   "title": "Ordenanza 3764/2025: Convalidar el Decreto Municipal N° 857/2024, dictado ad referéndum del Honorable Concejo Deliberante el que, como Anexo I, forma parte integrante de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182382",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182382",
+     "sha256": "c2e2c9a0d3fb7f54da1d0fc58daa5b512c876b671f132e670c70f565532e66b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3765-2025",
+   "short": "Ordenanza 3765/2025",
+   "title": "Ordenanza 3765/2025: Convalidar el Decreto Municipal N° 662/2024, dictado ad referéndum del Honorable Concejo Deliberante el que, como Anexo I, forma parte integrante de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182384",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182384",
+     "sha256": "e3abb7e18d7b8f4c356127858afac515744d7e9972006241b271e7e6eb79193a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3767-2025",
+   "short": "Ordenanza 3767/2025",
+   "title": "Ordenanza 3767/2025: Modificar el artículo 1, inciso 13 de la Ordenanza Nº 1860/1994, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182389",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182389",
+     "sha256": "d47a59bbb49aa5c13ffde8be2ec7aa2d12f1e6dce2e672bb2f87b329ae025415"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3770-2025",
+   "short": "Ordenanza 3770/2025",
+   "title": "Ordenanza 3770/2025: Las Residencias Estudiantiles de Adolfo Gonzales Chaves, se ubicarán en las principales ciudades universitarias, previo estudio de la Dirección de Educación y/o el área que el Departamento Ejecutivo determine.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182426",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 28,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182426",
+     "sha256": "88402d68d9a9ec107bc4f9d400f975ec9e4f2e5e8d1dc3728f3bdb69beac706e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3771-2025",
+   "short": "Ordenanza 3771/2025",
+   "title": "Ordenanza 3771/2025: Créase una plaza en la zona ubicada en la zona delimitada por Av. Perón y el paisaje que se encuentra paralelo a las vías entre Salta y Alvear, en la localidad de Adolfo Gonzales Chaves.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182439",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12281/contents/2182439",
+     "sha256": "6f49db4fc3d04c56b174fcabb3685d214e42e11c56253025226d9453f1ee0993"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3372-2025",
+   "short": "Ordenanza 3372/2025",
+   "title": "Ordenanza 3372/2025: Facultar al Departamento Ejecutivo a celebrar con Provincia Leasing S.A., un contrato de leasing en forma de contratación directa, de conformidad con lo establecido por el artículo 156 de la Ley Orgánica de las Municipal",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12778/contents/2217934",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12778/contents/2217934",
+     "sha256": "b444d11beee7027368b32834092299fb724fe112bc008bf98ff1020ccf56bb62"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3773-2025",
+   "short": "Ordenanza 3773/2025",
+   "title": "Ordenanza 3773/2025: Sancionar la Ordenanza Fiscal e Impositiva para el año 2025, la que quedará redactada conforme los Anexos “A” y “B”, respectivamente, los que forman parte integrante de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12778/contents/2217956",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12778/contents/2217956",
+     "sha256": "abb5fc76b6eefbb6f129609ca74fe4b24c0b6aa57ee9f485ff29b7db3a5f2581"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3806-2026",
+   "short": "Ordenanza 3806/2026",
+   "title": "Ordenanza 3806/2026: La presente ordenanza tiene como objetivo el consumo responsable de sal por parte de los clientes de restaurantes, confiterías, bares, pizzerías, comidas rápidas y todo tipo de establecimiento gastronómicos afines, donde",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15662/contents/2435801",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15662/contents/2435801",
+     "sha256": "7ddcfd2880df73f210198b86773962daddb28164efc64e17e86695ceaa078cda"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3807-2026",
+   "short": "Ordenanza 3807/2026",
+   "title": "Ordenanza 3807/2026: Desadjudicar, al Sr. Gonzalez, Javier DNI Nº 30.599.449 y a la Sra. Brandan, Adriana DNI Nº 34.516.726, la vivienda Nº 72 del Plan Federal Plurianual (Construcción de 113 Viviendas), ubicada en calle Lavalle bis N° 1338 ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15662/contents/2435836",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15662/contents/2435836",
+     "sha256": "f26258912372d1e824aa7ad6c71977de5ea4b94835f460bf6395a9cb40dbe82e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3808-2026",
+   "short": "Ordenanza 3808/2026",
+   "title": "Ordenanza 3808/2026: Créase el Observatorio Vial Municipal de la Municipalidad de Adolfo Gonzales Chaves, en el ámbito de la Secretaría de Seguridad. Dicha dependencia será destinada a la investigación de los hechos y actos vinculados con el",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15662/contents/2435868",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15662/contents/2435868",
+     "sha256": "50cbd14045d97df60bef1c80e3e02de5ecc9364dd44c60a4a609b36b3e660db4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3809-2026",
+   "short": "Ordenanza 3809/2026",
+   "title": "Ordenanza 3809/2026: Declárese como \"Reserva Natural\", específicamente: \"Parque Natural Municipal\" en el marco de la Ordenanza 3689/23, al predio identificado catastralmente como: Circunscripción XI, sección C, Polígono B, Chacra 5, Parcela ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15662/contents/2435882",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15662/contents/2435882",
+     "sha256": "543100bab25e2b6ba7b09d8f4ead9d9531b4c7203a30b030a7bd6709ad3fae25"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3810-2026",
+   "short": "Ordenanza 3810/2026",
+   "title": "Ordenanza 3810/2026: Procédase a convalidar los excesos de las partidas presupuestarias detalladas en el Anexo I, correspondientes al Ejercicio 2025, y que forman parte de la presente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15662/contents/2435894",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15662/contents/2435894",
+     "sha256": "ab40dcfbe2f58ecf8591bef934e93996a3ba1ee80d0f8ca7dbe53cee499bf031"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3812-2026",
+   "short": "Ordenanza 3812/2026",
+   "title": "Ordenanza 3812/2026: Institúyase en el ámbito de la Municipalidad de Adolfo Gonzales Chaves la figura del \"Placero\", quien deberá cumplir funciones de guardador y cuidador de espacios verdes públicos del dominio municipal, en todas las plaza",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15662/contents/2436373",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15662/contents/2436373",
+     "sha256": "157aa5230fa65ecf6c04348eb0fe0370ffd44d2d9d545ab4f6c70555751892aa"
+    }
+   ]
+  }
+ ]
+}

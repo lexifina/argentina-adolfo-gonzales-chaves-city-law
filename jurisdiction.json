@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-adolfo-gonzales-chaves",
+  "code": "AR-B-ADOLFO-GONZALES-CHAVES",
+  "name": "Adolfo Gonzales Chaves",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-adolfo-gonzales-chaves-city-law",
+  "build": "built: municipal ordinances (207 ordinances, 207 versions) from https://sibom.slyt.gba.gob.ar/cities/2",
+  "language": "es",
+  "sources": 1
+}
